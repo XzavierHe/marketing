@@ -1,0 +1,15 @@
+Review:
+    css: div.review__09f24__oHr9V
+    xpath: null
+    multiple: true
+    type: Attribute
+    attribute: ""
+    children:
+        ReviewContent:
+            css: 'div.margin-b2__09f24__CEMjT span.raw__09f24__T4Ezm'
+            xpath: null
+            type: Text
+        ReviewDate:
+            css: 'div.margin-t1__09f24__w96jn:nth-of-type(2) span.css-chan6m'
+            xpath: null
+            type: Text

@@ -1,0 +1,2001 @@
+sex,maritalstatus,age,education,income,occupation,city
+male,single,67,university,42000,official duties,big city
+female,non-single,22,high school,50000,official duties,big city
+male,single,49,high school,30000,unemployed,small city
+male,single,45,high school,57000,official duties,mid city
+male,single,53,high school,50000,official duties,mid city
+male,single,35,high school,48000,unemployed,small city
+male,single,53,high school,52000,official duties,mid city
+male,single,35,high school,65000,management,mid city
+male,non-single,61,university,51000,unemployed,small city
+male,non-single,28,high school,58000,management,small city
+female,non-single,25,high school,36000,official duties,small city
+female,non-single,24,high school,43000,official duties,small city
+female,non-single,22,high school,36000,official duties,big city
+male,single,60,university,30000,unemployed,small city
+female,non-single,28,high school,34000,official duties,mid city
+female,non-single,32,high school,29000,unemployed,small city
+male,single,53,high school,42000,official duties,small city
+male,single,25,unknown,52000,official duties,big city
+female,non-single,44,university,87000,management,big city
+male,single,31,unknown,48000,official duties,mid city
+male,single,48,high school,40000,official duties,mid city
+male,single,44,high school,49000,official duties,mid city
+male,single,48,high school,30000,unemployed,small city
+male,single,44,high school,45000,official duties,big city
+male,non-single,26,high school,35000,official duties,big city
+male,single,36,high school,24000,unemployed,small city
+male,non-single,39,high school,23000,unemployed,small city
+female,non-single,42,university,54000,official duties,mid city
+male,single,34,high school,40000,official duties,mid city
+male,single,63,university,59000,official duties,small city
+male,non-single,36,high school,53000,official duties,mid city
+male,single,27,unknown,40000,official duties,mid city
+male,single,30,unknown,54000,official duties,big city
+male,single,57,university,29000,unemployed,small city
+female,non-single,33,high school,52000,management,mid city
+male,single,25,unknown,35000,unemployed,small city
+male,single,31,unknown,48000,official duties,big city
+male,single,37,high school,43000,official duties,mid city
+male,single,37,high school,40000,official duties,mid city
+male,single,24,unknown,31000,official duties,mid city
+male,single,30,unknown,54000,management,mid city
+male,non-single,26,high school,44000,official duties,small city
+male,single,44,high school,45000,unemployed,small city
+male,non-single,24,high school,52000,official duties,mid city
+female,non-single,58,university,47000,unemployed,mid city
+female,non-single,35,high school,46000,management,mid city
+male,single,39,high school,47000,official duties,small city
+female,non-single,23,high school,22000,unemployed,small city
+male,single,39,high school,44000,unemployed,small city
+female,non-single,28,high school,41000,official duties,small city
+male,single,29,unknown,28000,unemployed,small city
+male,single,30,unknown,60000,management,big city
+male,single,25,unknown,31000,official duties,big city
+male,single,31,unknown,39000,official duties,small city
+male,single,57,university,45000,official duties,mid city
+male,single,26,unknown,19000,unemployed,small city
+male,single,52,high school,68000,management,big city
+female,non-single,31,high school,61000,official duties,mid city
+female,non-single,23,high school,51000,management,mid city
+female,non-single,23,high school,38000,unemployed,small city
+male,non-single,27,high school,36000,official duties,big city
+male,single,50,high school,41000,official duties,mid city
+male,single,61,university,55000,management,mid city
+male,single,25,unknown,76000,official duties,big city
+female,non-single,26,high school,39000,official duties,mid city
+male,single,48,high school,49000,official duties,mid city
+female,non-single,29,high school,37000,official duties,small city
+male,non-single,22,high school,47000,official duties,small city
+male,single,37,high school,36000,official duties,big city
+female,non-single,25,high school,37000,official duties,big city
+female,non-single,30,high school,56000,official duties,mid city
+male,single,46,high school,25000,unemployed,small city
+male,single,51,high school,47000,management,big city
+female,non-single,41,university,45000,unemployed,small city
+male,single,40,high school,47000,management,big city
+male,single,66,university,52000,management,big city
+male,single,34,high school,42000,official duties,mid city
+male,single,51,high school,52000,official duties,big city
+male,single,39,high school,51000,unemployed,small city
+male,non-single,22,high school,42000,official duties,mid city
+female,non-single,44,university,53000,official duties,big city
+male,single,47,high school,45000,official duties,mid city
+female,non-single,24,high school,28000,unemployed,small city
+female,non-single,58,university,33000,unemployed,small city
+male,single,52,high school,31000,unemployed,small city
+female,non-single,29,high school,45000,management,mid city
+female,non-single,27,high school,37000,official duties,big city
+male,single,47,high school,80000,official duties,mid city
+male,single,30,unknown,50000,management,big city
+male,single,28,unknown,31000,official duties,big city
+male,single,56,high school,37000,official duties,mid city
+male,single,54,high school,39000,official duties,mid city
+female,non-single,33,high school,24000,unemployed,small city
+male,single,20,unknown,43000,official duties,mid city
+male,single,54,high school,55000,official duties,big city
+male,single,58,university,89000,official duties,mid city
+female,non-single,61,university,45000,official duties,mid city
+male,single,34,high school,45000,official duties,big city
+male,single,36,high school,40000,official duties,mid city
+male,single,36,high school,65000,management,big city
+male,non-single,41,high school,31000,unemployed,small city
+male,single,24,unknown,37000,official duties,small city
+female,non-single,24,high school,32000,official duties,mid city
+male,single,35,high school,38000,official duties,mid city
+male,non-single,26,high school,36000,official duties,mid city
+male,single,39,high school,82000,management,big city
+male,single,39,high school,61000,management,big city
+male,single,32,unknown,51000,official duties,big city
+female,non-single,30,high school,55000,official duties,small city
+male,non-single,35,high school,47000,official duties,small city
+male,non-single,31,high school,41000,official duties,mid city
+female,non-single,23,high school,36000,official duties,mid city
+male,single,28,unknown,40000,unemployed,big city
+female,non-single,25,high school,54000,official duties,small city
+male,non-single,35,high school,45000,official duties,mid city
+male,single,47,high school,44000,official duties,mid city
+female,non-single,30,high school,63000,management,small city
+female,non-single,27,high school,36000,official duties,big city
+female,non-single,23,high school,51000,official duties,mid city
+male,non-single,36,high school,60000,management,mid city
+female,non-single,25,high school,35000,official duties,big city
+female,non-single,41,university,56000,management,big city
+male,single,24,unknown,22000,unemployed,small city
+male,single,63,university,45000,official duties,small city
+female,non-single,27,high school,39000,official duties,big city
+male,single,30,unknown,35000,official duties,mid city
+male,non-single,40,high school,24000,unemployed,small city
+male,single,30,unknown,33000,official duties,big city
+male,single,34,high school,48000,management,big city
+female,non-single,29,high school,41000,official duties,small city
+female,non-single,24,high school,59000,official duties,big city
+male,single,29,unknown,50000,official duties,big city
+male,single,27,unknown,26000,unemployed,small city
+male,single,47,high school,39000,official duties,mid city
+female,non-single,21,high school,65000,official duties,small city
+female,non-single,38,high school,36000,official duties,big city
+male,single,27,unknown,68000,official duties,big city
+male,single,66,university,42000,unemployed,small city
+male,single,35,high school,41000,official duties,mid city
+female,non-single,44,university,36000,unemployed,small city
+male,non-single,27,high school,30000,unemployed,small city
+female,non-single,30,high school,59000,management,mid city
+male,single,27,unknown,48000,management,big city
+male,single,22,unknown,34000,official duties,mid city
+female,non-single,23,high school,36000,official duties,big city
+male,single,30,unknown,47000,official duties,mid city
+female,non-single,39,university,35000,official duties,small city
+female,non-single,51,university,43000,official duties,small city
+male,single,28,unknown,45000,official duties,mid city
+male,single,46,high school,51000,official duties,big city
+male,single,42,high school,40000,official duties,small city
+male,single,38,high school,36000,official duties,big city
+male,single,24,unknown,51000,official duties,mid city
+female,non-single,29,high school,71000,official duties,big city
+male,single,36,high school,69000,management,big city
+female,non-single,20,high school,32000,official duties,mid city
+male,single,48,high school,41000,official duties,mid city
+male,non-single,45,university,24000,unemployed,small city
+male,single,38,high school,49000,official duties,big city
+male,single,34,high school,25000,unemployed,small city
+male,single,36,high school,43000,official duties,mid city
+female,non-single,30,high school,34000,official duties,mid city
+male,single,36,high school,43000,official duties,big city
+male,single,70,university,75000,management,big city
+male,single,36,high school,41000,official duties,big city
+male,single,32,unknown,47000,official duties,mid city
+female,non-single,33,high school,35000,official duties,big city
+female,non-single,20,high school,49000,official duties,big city
+female,non-single,25,high school,42000,official duties,mid city
+male,non-single,31,high school,38000,official duties,big city
+male,single,33,high school,32000,official duties,small city
+female,non-single,26,high school,32000,official duties,mid city
+female,non-single,34,high school,51000,management,big city
+male,single,33,high school,36000,official duties,small city
+male,single,26,unknown,38000,official duties,mid city
+female,non-single,53,university,70000,management,small city
+male,non-single,42,university,40000,official duties,small city
+male,single,52,high school,44000,official duties,big city
+male,single,31,unknown,45000,management,mid city
+male,single,65,university,39000,official duties,small city
+male,non-single,28,high school,59000,official duties,big city
+male,non-single,30,high school,56000,management,mid city
+male,single,40,high school,26000,unemployed,small city
+male,single,50,high school,59000,official duties,big city
+male,single,36,high school,35000,official duties,mid city
+male,single,31,unknown,33000,official duties,mid city
+female,non-single,74,graduate,71000,management,mid city
+male,single,68,university,25000,unemployed,small city
+male,non-single,20,high school,33000,official duties,small city
+female,non-single,33,high school,45000,official duties,mid city
+male,single,54,high school,73000,management,big city
+male,single,34,high school,39000,unemployed,small city
+male,single,36,high school,45000,official duties,big city
+male,non-single,29,high school,35000,official duties,mid city
+male,single,21,unknown,43000,official duties,big city
+female,non-single,34,high school,49000,management,big city
+female,non-single,28,high school,34000,official duties,small city
+female,non-single,27,high school,40000,official duties,small city
+male,single,36,high school,41000,official duties,big city
+male,non-single,40,high school,58000,management,mid city
+male,single,52,high school,46000,official duties,small city
+male,non-single,27,high school,22000,unemployed,small city
+male,single,26,unknown,43000,official duties,mid city
+male,non-single,21,high school,29000,official duties,mid city
+male,single,38,high school,25000,unemployed,small city
+male,single,38,high school,74000,management,big city
+male,single,43,high school,38000,official duties,small city
+male,single,26,unknown,34000,official duties,big city
+male,non-single,21,high school,38000,unemployed,small city
+male,single,55,high school,53000,official duties,big city
+male,single,33,high school,39000,official duties,big city
+female,non-single,45,university,37000,unemployed,small city
+male,single,50,high school,50000,official duties,mid city
+male,single,66,university,60000,management,small city
+male,single,51,high school,44000,official duties,small city
+female,non-single,39,university,29000,unemployed,small city
+male,single,31,unknown,38000,official duties,big city
+male,single,23,unknown,45000,official duties,mid city
+male,non-single,24,high school,27000,unemployed,small city
+female,non-single,64,graduate,44000,official duties,small city
+male,non-single,26,high school,23000,unemployed,small city
+female,non-single,23,high school,32000,official duties,mid city
+male,single,30,unknown,30000,official duties,big city
+male,single,32,unknown,38000,official duties,mid city
+male,single,30,unknown,43000,official duties,mid city
+male,single,27,unknown,36000,official duties,mid city
+male,single,27,unknown,79000,official duties,mid city
+male,single,53,high school,69000,management,mid city
+male,single,22,unknown,31000,official duties,mid city
+male,single,22,unknown,36000,official duties,big city
+male,single,26,unknown,46000,official duties,big city
+male,single,51,high school,41000,unemployed,small city
+male,single,35,high school,41000,official duties,small city
+male,non-single,25,high school,23000,unemployed,small city
+male,single,42,high school,26000,unemployed,small city
+male,single,30,unknown,44000,management,small city
+male,single,23,unknown,56000,unemployed,big city
+male,non-single,61,university,44000,unemployed,small city
+female,non-single,35,high school,36000,official duties,mid city
+male,single,39,high school,38000,official duties,mid city
+female,non-single,29,high school,33000,official duties,small city
+male,single,51,high school,39000,official duties,mid city
+male,single,24,unknown,41000,official duties,mid city
+female,non-single,27,high school,33000,official duties,small city
+female,non-single,35,high school,42000,unemployed,small city
+male,single,25,unknown,31000,official duties,big city
+male,single,52,high school,36000,official duties,big city
+male,single,35,high school,38000,official duties,small city
+male,single,26,unknown,39000,official duties,mid city
+female,non-single,22,high school,30000,official duties,big city
+female,non-single,39,university,38000,unemployed,small city
+female,non-single,46,university,38000,unemployed,small city
+female,non-single,24,high school,39000,official duties,mid city
+male,single,35,high school,47000,official duties,big city
+male,single,24,unknown,36000,official duties,mid city
+male,single,27,unknown,44000,unemployed,small city
+male,single,35,high school,28000,unemployed,small city
+male,non-single,29,high school,36000,official duties,big city
+female,non-single,23,high school,45000,official duties,mid city
+female,non-single,57,university,36000,unemployed,small city
+male,single,27,unknown,32000,official duties,mid city
+female,non-single,55,university,42000,official duties,big city
+male,single,36,high school,57000,management,mid city
+female,non-single,57,university,36000,unemployed,small city
+male,single,32,unknown,22000,unemployed,small city
+male,single,37,high school,35000,official duties,small city
+male,single,36,high school,50000,official duties,small city
+female,non-single,38,high school,37000,official duties,small city
+male,non-single,45,university,72000,management,big city
+male,single,25,unknown,30000,official duties,mid city
+male,single,32,unknown,37000,official duties,big city
+female,non-single,37,high school,46000,official duties,mid city
+male,single,36,high school,82000,management,big city
+male,single,28,unknown,40000,official duties,mid city
+male,non-single,34,high school,58000,unemployed,small city
+male,single,32,unknown,37000,official duties,mid city
+female,non-single,26,high school,37000,official duties,small city
+male,non-single,49,university,28000,unemployed,small city
+female,non-single,32,high school,46000,official duties,big city
+male,single,29,unknown,48000,management,big city
+male,single,23,unknown,50000,official duties,mid city
+male,single,50,high school,38000,official duties,mid city
+male,single,49,high school,34000,unemployed,small city
+male,single,63,university,42000,official duties,big city
+male,non-single,37,high school,51000,official duties,big city
+female,non-single,35,high school,56000,unemployed,mid city
+male,single,26,unknown,42000,official duties,big city
+male,single,31,unknown,70000,management,big city
+female,non-single,49,university,42000,official duties,mid city
+male,non-single,48,university,37000,official duties,mid city
+male,non-single,26,high school,31000,official duties,small city
+male,non-single,28,high school,72000,management,mid city
+female,non-single,44,university,65000,management,mid city
+male,single,56,high school,56000,official duties,mid city
+male,non-single,46,university,68000,management,mid city
+female,non-single,26,high school,64000,official duties,big city
+female,non-single,20,high school,43000,official duties,big city
+male,single,45,high school,26000,unemployed,small city
+male,single,43,high school,39000,official duties,mid city
+male,single,32,unknown,54000,official duties,big city
+female,non-single,54,university,19000,unemployed,small city
+female,non-single,42,university,49000,official duties,mid city
+male,single,37,high school,30000,unemployed,small city
+male,single,49,high school,36000,official duties,small city
+male,single,44,high school,73000,official duties,small city
+male,non-single,33,high school,48000,official duties,mid city
+female,non-single,24,high school,34000,unemployed,small city
+male,non-single,33,high school,27000,unemployed,small city
+female,non-single,24,high school,36000,official duties,big city
+male,non-single,22,high school,21000,unemployed,small city
+male,single,40,high school,31000,unemployed,small city
+male,single,25,unknown,49000,official duties,small city
+female,non-single,26,high school,47000,official duties,mid city
+male,non-single,25,high school,23000,unemployed,small city
+male,single,29,unknown,28000,unemployed,small city
+male,single,31,unknown,37000,official duties,big city
+male,single,38,high school,22000,unemployed,small city
+female,non-single,48,university,42000,unemployed,small city
+male,single,32,unknown,31000,official duties,big city
+female,non-single,27,high school,31000,unemployed,small city
+male,non-single,28,high school,55000,management,small city
+male,non-single,32,high school,36000,official duties,small city
+male,single,34,high school,48000,management,small city
+male,single,28,unknown,49000,official duties,small city
+female,non-single,36,high school,35000,official duties,big city
+male,single,39,high school,31000,unemployed,small city
+male,single,49,high school,52000,official duties,big city
+female,non-single,34,high school,50000,official duties,big city
+male,single,31,unknown,49000,official duties,mid city
+male,single,28,unknown,34000,official duties,big city
+male,single,75,university,71000,management,mid city
+female,non-single,30,high school,41000,official duties,small city
+female,non-single,24,high school,70000,management,mid city
+female,non-single,24,high school,60000,unemployed,small city
+male,single,23,unknown,39000,official duties,mid city
+male,non-single,44,university,54000,management,mid city
+female,non-single,23,high school,28000,unemployed,small city
+female,non-single,24,high school,33000,official duties,big city
+male,single,28,unknown,41000,official duties,big city
+male,non-single,31,high school,27000,unemployed,small city
+female,non-single,24,high school,50000,official duties,mid city
+female,non-single,26,high school,31000,unemployed,small city
+male,non-single,25,high school,50000,official duties,big city
+male,single,33,high school,56000,management,mid city
+male,single,37,high school,38000,unemployed,small city
+female,non-single,43,university,28000,unemployed,small city
+male,single,23,unknown,32000,official duties,big city
+female,non-single,23,high school,33000,unemployed,small city
+male,single,34,high school,29000,unemployed,small city
+male,single,32,unknown,49000,official duties,mid city
+female,non-single,23,high school,32000,official duties,small city
+female,non-single,29,high school,36000,official duties,big city
+male,single,38,high school,50000,management,mid city
+male,single,28,unknown,47000,official duties,mid city
+male,single,46,high school,44000,official duties,big city
+male,single,23,unknown,23000,unemployed,small city
+male,single,49,high school,40000,official duties,big city
+male,single,26,unknown,51000,management,big city
+male,non-single,28,high school,31000,official duties,small city
+female,non-single,23,high school,36000,official duties,big city
+male,single,61,university,43000,official duties,big city
+male,single,37,high school,57000,management,small city
+female,non-single,36,high school,45000,official duties,mid city
+male,non-single,21,high school,32000,official duties,big city
+male,single,25,unknown,15000,unemployed,small city
+male,single,36,high school,35000,official duties,small city
+male,single,27,unknown,39000,official duties,mid city
+female,non-single,22,high school,40000,official duties,big city
+male,single,42,high school,42000,official duties,mid city
+female,non-single,40,university,46000,official duties,big city
+male,single,36,high school,39000,official duties,mid city
+male,single,33,high school,48000,official duties,mid city
+female,non-single,23,high school,35000,official duties,small city
+male,single,63,university,91000,management,big city
+female,non-single,60,university,103000,management,big city
+female,non-single,37,high school,57000,official duties,mid city
+male,non-single,34,high school,37000,official duties,small city
+male,single,36,high school,32000,official duties,mid city
+male,single,57,university,94000,management,mid city
+female,non-single,52,university,32000,unemployed,small city
+male,single,39,high school,37000,official duties,big city
+female,non-single,38,high school,87000,management,big city
+female,non-single,25,high school,33000,official duties,small city
+male,single,26,unknown,37000,official duties,big city
+male,single,26,unknown,35000,unemployed,small city
+female,non-single,25,high school,36000,official duties,small city
+female,non-single,21,high school,32000,official duties,mid city
+male,single,40,high school,67000,management,mid city
+male,single,27,unknown,47000,official duties,big city
+female,non-single,27,high school,34000,official duties,mid city
+male,non-single,30,high school,45000,management,big city
+female,non-single,19,high school,37000,unemployed,small city
+male,single,39,high school,51000,management,mid city
+female,non-single,31,high school,37000,official duties,big city
+male,single,31,unknown,46000,management,big city
+male,single,32,unknown,74000,official duties,big city
+female,non-single,55,university,55000,management,big city
+male,non-single,46,university,41000,official duties,small city
+male,non-single,46,university,40000,official duties,small city
+female,non-single,43,university,42000,unemployed,small city
+male,non-single,39,high school,36000,official duties,big city
+male,non-single,28,high school,38000,official duties,mid city
+male,single,27,unknown,55000,official duties,mid city
+male,single,27,unknown,20000,unemployed,small city
+male,single,43,high school,44000,official duties,small city
+male,non-single,22,high school,36000,official duties,small city
+male,single,43,high school,38000,official duties,mid city
+male,non-single,27,high school,32000,official duties,big city
+male,non-single,26,high school,57000,management,small city
+male,non-single,28,high school,46000,official duties,big city
+female,non-single,20,high school,37000,official duties,mid city
+male,single,35,high school,63000,management,big city
+male,single,42,high school,49000,management,small city
+male,single,40,high school,35000,unemployed,small city
+female,non-single,35,high school,36000,official duties,mid city
+male,single,35,high school,48000,official duties,big city
+male,single,33,high school,27000,unemployed,small city
+female,non-single,23,high school,56000,official duties,mid city
+female,non-single,31,high school,59000,management,mid city
+female,non-single,33,high school,37000,official duties,mid city
+female,non-single,20,high school,51000,official duties,big city
+male,single,30,unknown,37000,official duties,mid city
+male,single,47,high school,29000,unemployed,small city
+male,single,34,high school,49000,management,big city
+female,non-single,25,high school,41000,official duties,big city
+male,non-single,21,high school,38000,official duties,big city
+male,single,29,unknown,36000,official duties,small city
+male,single,46,high school,49000,official duties,big city
+male,single,20,unknown,30000,official duties,mid city
+female,non-single,55,university,21000,unemployed,small city
+male,single,74,university,41000,unemployed,small city
+male,single,29,unknown,77000,management,big city
+male,single,36,high school,46000,management,big city
+male,non-single,33,high school,36000,official duties,small city
+male,single,25,unknown,33000,official duties,big city
+male,non-single,25,high school,35000,official duties,small city
+male,non-single,23,high school,28000,unemployed,small city
+female,non-single,37,high school,50000,official duties,mid city
+male,single,65,university,28000,unemployed,small city
+female,non-single,26,high school,17000,unemployed,small city
+male,single,39,high school,46000,management,mid city
+female,non-single,30,high school,36000,official duties,mid city
+male,single,29,unknown,39000,official duties,big city
+male,single,41,high school,23000,unemployed,small city
+female,non-single,30,high school,60000,management,big city
+female,non-single,41,university,27000,unemployed,small city
+female,non-single,34,high school,37000,official duties,mid city
+male,single,35,high school,41000,official duties,small city
+female,non-single,55,university,58000,management,big city
+male,non-single,61,university,59000,official duties,mid city
+male,single,30,unknown,73000,management,big city
+female,non-single,29,high school,32000,official duties,mid city
+male,single,34,high school,38000,official duties,mid city
+male,single,35,high school,48000,management,big city
+male,single,31,unknown,44000,official duties,big city
+female,non-single,29,high school,49000,management,big city
+male,single,36,high school,42000,official duties,mid city
+male,single,35,high school,40000,official duties,small city
+female,non-single,27,high school,31000,official duties,big city
+male,single,32,unknown,43000,official duties,big city
+male,single,37,high school,41000,official duties,big city
+male,single,36,high school,35000,official duties,mid city
+female,non-single,34,high school,54000,management,small city
+male,single,38,high school,36000,official duties,big city
+male,single,34,high school,35000,official duties,big city
+male,single,63,university,46000,official duties,mid city
+female,non-single,29,high school,25000,unemployed,small city
+male,single,32,unknown,52000,official duties,mid city
+female,non-single,26,high school,38000,official duties,mid city
+male,single,35,high school,34000,unemployed,small city
+male,non-single,22,high school,44000,official duties,small city
+female,non-single,23,high school,30000,official duties,big city
+male,single,28,unknown,20000,unemployed,small city
+male,single,36,high school,44000,management,big city
+male,non-single,33,high school,37000,official duties,small city
+female,non-single,26,high school,39000,official duties,big city
+male,single,24,unknown,44000,official duties,small city
+male,single,25,unknown,49000,official duties,big city
+male,single,39,high school,31000,unemployed,small city
+male,single,44,high school,36000,official duties,mid city
+female,non-single,23,high school,33000,unemployed,small city
+male,single,26,unknown,34000,official duties,small city
+female,non-single,57,university,63000,official duties,mid city
+female,non-single,30,high school,47000,official duties,small city
+male,single,44,high school,44000,official duties,big city
+male,single,47,high school,49000,management,big city
+male,single,52,high school,44000,official duties,big city
+female,non-single,62,university,51000,official duties,big city
+male,single,35,high school,28000,unemployed,small city
+male,single,26,unknown,38000,official duties,mid city
+male,single,26,unknown,33000,official duties,mid city
+female,non-single,42,university,73000,management,big city
+female,non-single,27,high school,38000,official duties,small city
+male,single,38,high school,34000,official duties,small city
+male,single,39,high school,27000,unemployed,small city
+male,non-single,20,high school,36000,official duties,big city
+male,single,29,unknown,74000,management,big city
+male,single,40,high school,36000,official duties,small city
+male,non-single,32,high school,27000,unemployed,small city
+male,non-single,28,high school,43000,official duties,small city
+female,non-single,27,high school,40000,official duties,mid city
+male,single,42,high school,49000,official duties,mid city
+male,non-single,49,university,48000,official duties,big city
+male,single,38,high school,41000,official duties,small city
+female,non-single,24,high school,33000,official duties,small city
+male,single,27,unknown,21000,unemployed,small city
+male,single,36,high school,52000,official duties,big city
+male,single,34,high school,68000,management,big city
+male,non-single,28,high school,33000,official duties,big city
+male,single,45,high school,74000,management,big city
+male,single,26,unknown,29000,official duties,big city
+male,single,32,unknown,54000,management,big city
+male,single,26,unknown,42000,official duties,big city
+male,non-single,20,high school,31000,official duties,small city
+male,single,54,high school,42000,official duties,small city
+female,non-single,37,high school,34000,official duties,small city
+male,single,40,high school,25000,unemployed,small city
+female,non-single,23,high school,51000,official duties,mid city
+male,single,43,high school,40000,official duties,big city
+male,single,36,high school,32000,official duties,big city
+male,single,44,high school,49000,official duties,big city
+female,non-single,24,high school,39000,official duties,mid city
+male,single,53,high school,57000,official duties,mid city
+female,non-single,23,high school,44000,official duties,mid city
+female,non-single,26,high school,26000,unemployed,small city
+male,single,30,unknown,56000,official duties,big city
+female,non-single,31,high school,40000,official duties,small city
+male,single,42,high school,26000,unemployed,small city
+male,non-single,31,high school,37000,official duties,mid city
+male,single,41,high school,23000,unemployed,small city
+male,single,32,unknown,39000,official duties,small city
+female,non-single,28,high school,46000,official duties,mid city
+male,non-single,41,high school,37000,official duties,small city
+male,non-single,26,high school,37000,official duties,mid city
+male,single,25,unknown,37000,official duties,big city
+male,non-single,33,high school,43000,official duties,mid city
+female,non-single,75,graduate,57000,management,mid city
+female,non-single,37,high school,47000,official duties,mid city
+male,single,42,high school,66000,management,big city
+female,non-single,45,university,40000,unemployed,small city
+male,non-single,23,high school,35000,official duties,mid city
+male,single,60,university,42000,official duties,small city
+male,single,31,unknown,49000,official duties,small city
+male,single,34,high school,34000,unemployed,mid city
+male,single,61,university,30000,unemployed,small city
+male,single,43,high school,36000,official duties,mid city
+female,non-single,37,high school,39000,official duties,big city
+male,single,32,unknown,33000,official duties,big city
+female,non-single,24,high school,21000,unemployed,small city
+male,single,35,high school,58000,official duties,mid city
+female,non-single,23,high school,32000,official duties,mid city
+male,single,45,high school,37000,unemployed,small city
+male,non-single,34,high school,52000,official duties,small city
+male,single,27,unknown,41000,official duties,big city
+female,non-single,67,graduate,57000,management,small city
+male,single,22,unknown,33000,official duties,small city
+female,non-single,28,high school,45000,official duties,big city
+female,non-single,29,high school,46000,official duties,big city
+male,single,27,unknown,39000,official duties,small city
+male,single,31,unknown,27000,unemployed,small city
+male,single,49,high school,43000,official duties,mid city
+male,single,24,unknown,21000,unemployed,small city
+female,non-single,29,high school,38000,official duties,small city
+male,single,37,high school,72000,official duties,mid city
+male,single,37,high school,58000,management,big city
+female,non-single,23,high school,41000,official duties,small city
+male,non-single,36,high school,35000,official duties,small city
+male,single,34,high school,51000,official duties,mid city
+male,single,41,high school,47000,official duties,small city
+female,non-single,31,high school,52000,official duties,mid city
+female,non-single,23,high school,29000,unemployed,small city
+male,single,38,high school,49000,official duties,small city
+female,non-single,26,high school,57000,management,small city
+female,non-single,22,high school,21000,unemployed,small city
+male,single,27,unknown,24000,unemployed,small city
+female,non-single,24,high school,38000,official duties,mid city
+female,non-single,27,high school,42000,official duties,small city
+female,non-single,33,high school,37000,official duties,big city
+male,non-single,27,high school,40000,official duties,mid city
+male,non-single,27,high school,21000,unemployed,small city
+male,single,30,unknown,34000,official duties,mid city
+male,single,49,high school,36000,unemployed,small city
+female,non-single,26,high school,34000,official duties,mid city
+male,single,33,high school,29000,unemployed,small city
+female,non-single,52,university,53000,management,mid city
+female,non-single,20,high school,34000,official duties,big city
+male,single,36,high school,39000,official duties,small city
+male,single,21,unknown,20000,unemployed,small city
+male,non-single,47,university,27000,unemployed,small city
+male,single,60,university,43000,official duties,mid city
+female,non-single,58,university,29000,unemployed,small city
+female,non-single,42,university,43000,official duties,big city
+female,non-single,36,high school,40000,unemployed,small city
+female,non-single,20,high school,29000,unemployed,small city
+male,single,40,high school,45000,management,big city
+female,non-single,32,high school,31000,unemployed,small city
+female,non-single,23,high school,33000,official duties,mid city
+male,single,36,high school,36000,unemployed,small city
+male,single,31,unknown,37000,official duties,small city
+male,single,32,unknown,41000,official duties,big city
+female,non-single,45,university,45000,official duties,small city
+female,non-single,30,high school,36000,official duties,big city
+female,non-single,34,high school,30000,unemployed,small city
+female,non-single,28,high school,51000,management,big city
+female,non-single,23,high school,39000,official duties,mid city
+male,single,22,unknown,44000,official duties,mid city
+male,single,74,university,64000,management,mid city
+female,non-single,50,university,52000,official duties,big city
+male,single,33,high school,35000,official duties,big city
+male,single,45,high school,36000,official duties,small city
+female,non-single,22,high school,35000,official duties,mid city
+female,non-single,48,university,40000,unemployed,small city
+female,non-single,29,high school,54000,official duties,big city
+female,non-single,22,high school,40000,official duties,big city
+female,non-single,22,high school,34000,official duties,small city
+male,single,48,high school,85000,management,mid city
+male,single,27,unknown,69000,management,big city
+male,single,37,high school,42000,official duties,small city
+female,non-single,21,high school,46000,official duties,small city
+male,non-single,49,university,26000,unemployed,small city
+male,single,27,unknown,42000,official duties,mid city
+male,single,32,unknown,33000,official duties,big city
+male,non-single,38,high school,44000,official duties,big city
+female,non-single,22,high school,34000,official duties,big city
+male,single,65,university,46000,official duties,mid city
+male,single,35,high school,36000,official duties,mid city
+male,single,41,high school,44000,official duties,big city
+male,single,29,unknown,40000,official duties,mid city
+male,single,36,high school,52000,official duties,mid city
+male,single,64,university,39000,unemployed,small city
+female,non-single,28,high school,42000,official duties,big city
+male,single,44,high school,37000,official duties,big city
+male,single,23,unknown,34000,official duties,mid city
+female,non-single,19,high school,34000,official duties,small city
+female,non-single,25,high school,26000,unemployed,small city
+male,single,47,high school,37000,official duties,small city
+female,non-single,28,high school,43000,official duties,big city
+male,single,21,unknown,76000,official duties,mid city
+female,non-single,34,high school,36000,official duties,mid city
+male,single,26,unknown,41000,official duties,small city
+female,non-single,27,high school,12000,unemployed,small city
+male,single,38,high school,27000,unemployed,small city
+male,single,40,high school,60000,management,big city
+male,non-single,33,high school,36000,official duties,mid city
+male,non-single,32,high school,46000,management,mid city
+male,single,27,unknown,53000,official duties,big city
+male,non-single,32,high school,44000,official duties,big city
+female,non-single,26,high school,43000,official duties,big city
+male,single,38,high school,39000,official duties,mid city
+male,single,40,high school,23000,unemployed,small city
+male,single,50,high school,67000,management,big city
+male,single,37,high school,29000,unemployed,small city
+male,single,45,high school,39000,official duties,mid city
+male,single,42,high school,75000,management,big city
+male,single,35,high school,37000,official duties,small city
+male,single,22,unknown,39000,official duties,big city
+male,single,41,high school,27000,unemployed,small city
+male,single,37,high school,63000,official duties,mid city
+female,non-single,28,high school,46000,official duties,mid city
+male,single,41,high school,54000,official duties,big city
+male,non-single,23,high school,37000,official duties,mid city
+male,non-single,23,high school,30000,official duties,mid city
+male,single,50,high school,40000,official duties,mid city
+male,single,35,high school,46000,management,big city
+female,non-single,50,university,35000,unemployed,small city
+male,single,27,unknown,57000,management,big city
+male,single,34,high school,57000,official duties,mid city
+female,non-single,27,high school,41000,official duties,mid city
+male,single,43,high school,47000,official duties,small city
+male,single,47,high school,48000,official duties,small city
+male,single,27,unknown,35000,unemployed,small city
+male,single,31,unknown,51000,official duties,mid city
+male,single,42,high school,74000,management,mid city
+male,non-single,24,high school,43000,official duties,big city
+male,single,41,high school,38000,unemployed,mid city
+female,non-single,26,high school,54000,management,mid city
+male,single,33,high school,45000,official duties,big city
+male,non-single,24,high school,53000,official duties,small city
+male,single,64,university,35000,unemployed,small city
+female,non-single,26,high school,34000,official duties,big city
+female,non-single,56,university,42000,official duties,mid city
+male,single,37,high school,37000,official duties,mid city
+male,non-single,33,high school,35000,official duties,big city
+male,non-single,47,university,50000,official duties,mid city
+male,single,31,unknown,57000,unemployed,small city
+male,single,34,high school,50000,official duties,mid city
+male,single,27,unknown,37000,official duties,mid city
+male,single,30,unknown,45000,official duties,big city
+male,single,35,high school,43000,official duties,mid city
+male,single,31,unknown,53000,official duties,big city
+male,non-single,25,high school,31000,official duties,big city
+female,non-single,25,high school,35000,unemployed,small city
+male,single,29,unknown,44000,official duties,mid city
+male,single,44,high school,37000,unemployed,small city
+male,single,28,unknown,35000,official duties,mid city
+male,single,50,high school,46000,official duties,small city
+male,single,29,unknown,34000,official duties,small city
+female,non-single,38,high school,15000,unemployed,small city
+male,single,24,unknown,32000,official duties,mid city
+male,single,40,high school,53000,management,mid city
+female,non-single,29,high school,33000,unemployed,small city
+male,single,46,high school,52000,official duties,small city
+female,non-single,47,university,50000,official duties,small city
+male,single,41,high school,46000,official duties,mid city
+female,non-single,32,high school,42000,official duties,big city
+female,non-single,35,high school,58000,official duties,mid city
+male,single,24,unknown,55000,official duties,mid city
+female,non-single,25,high school,42000,official duties,mid city
+female,non-single,25,high school,36000,official duties,mid city
+male,single,37,high school,30000,unemployed,small city
+male,single,32,unknown,50000,management,big city
+female,non-single,35,high school,36000,official duties,big city
+male,single,46,high school,50000,management,mid city
+male,single,25,unknown,20000,unemployed,small city
+male,single,27,unknown,85000,management,big city
+male,single,63,university,61000,official duties,mid city
+male,single,40,high school,40000,official duties,big city
+male,single,32,unknown,43000,management,big city
+male,single,31,unknown,44000,official duties,big city
+male,non-single,31,high school,56000,official duties,mid city
+male,single,34,high school,49000,management,mid city
+female,non-single,24,high school,47000,official duties,big city
+female,non-single,24,high school,23000,unemployed,small city
+female,non-single,66,graduate,44000,unemployed,small city
+female,non-single,21,high school,36000,official duties,big city
+female,non-single,41,university,38000,unemployed,small city
+male,non-single,47,university,37000,unemployed,small city
+female,non-single,25,high school,35000,official duties,mid city
+female,non-single,59,university,62000,official duties,mid city
+male,non-single,36,high school,54000,official duties,big city
+male,single,33,high school,52000,official duties,mid city
+male,single,21,unknown,22000,unemployed,small city
+female,non-single,44,university,29000,unemployed,small city
+female,non-single,28,high school,52000,official duties,big city
+female,non-single,37,high school,43000,official duties,small city
+female,non-single,29,high school,26000,unemployed,small city
+female,non-single,23,high school,78000,management,big city
+male,single,35,high school,38000,unemployed,small city
+male,single,45,high school,64000,management,big city
+female,non-single,26,high school,40000,unemployed,small city
+male,single,32,unknown,40000,official duties,mid city
+male,single,23,unknown,22000,unemployed,small city
+male,single,41,high school,41000,official duties,mid city
+male,single,22,unknown,43000,official duties,big city
+male,single,30,unknown,83000,management,mid city
+male,single,28,unknown,23000,unemployed,small city
+female,non-single,23,high school,37000,official duties,mid city
+female,non-single,37,high school,26000,unemployed,small city
+male,single,26,unknown,44000,official duties,small city
+male,single,33,high school,38000,official duties,mid city
+female,non-single,49,university,37000,official duties,big city
+female,non-single,23,high school,22000,unemployed,small city
+female,non-single,23,high school,29000,unemployed,small city
+female,non-single,25,high school,47000,official duties,big city
+male,single,55,high school,53000,official duties,mid city
+female,non-single,32,high school,35000,official duties,mid city
+male,single,74,university,30000,unemployed,small city
+male,single,39,high school,40000,official duties,mid city
+male,single,31,unknown,33000,official duties,small city
+male,single,35,high school,32000,official duties,mid city
+female,non-single,59,university,54000,official duties,mid city
+female,non-single,24,high school,36000,official duties,big city
+male,single,24,unknown,23000,unemployed,small city
+male,single,30,unknown,79000,management,big city
+male,non-single,27,high school,41000,official duties,big city
+male,non-single,40,high school,28000,unemployed,small city
+male,non-single,31,high school,29000,unemployed,small city
+female,non-single,31,high school,40000,official duties,small city
+male,single,28,unknown,42000,official duties,big city
+male,single,63,university,32000,unemployed,small city
+female,non-single,26,high school,38000,official duties,small city
+female,non-single,25,high school,65000,management,big city
+male,single,36,high school,50000,management,big city
+male,single,52,high school,45000,official duties,big city
+male,single,66,university,37000,unemployed,small city
+female,non-single,25,high school,33000,official duties,small city
+male,single,37,high school,41000,official duties,big city
+female,non-single,25,high school,40000,official duties,mid city
+male,single,38,high school,72000,management,mid city
+female,non-single,67,graduate,56000,official duties,mid city
+male,single,25,unknown,45000,official duties,mid city
+male,single,60,university,56000,official duties,big city
+male,single,31,unknown,26000,unemployed,small city
+female,non-single,23,high school,29000,unemployed,small city
+male,non-single,60,university,71000,management,small city
+male,single,35,high school,42000,unemployed,small city
+male,single,40,high school,48000,official duties,small city
+male,single,38,high school,39000,official duties,mid city
+male,single,50,high school,56000,official duties,mid city
+male,single,27,unknown,46000,official duties,mid city
+female,non-single,39,university,40000,official duties,big city
+male,single,41,high school,61000,management,big city
+male,non-single,27,high school,32000,official duties,small city
+male,non-single,51,university,50000,official duties,big city
+male,single,32,unknown,47000,official duties,big city
+female,non-single,22,high school,40000,official duties,small city
+male,single,51,high school,58000,official duties,mid city
+female,non-single,22,high school,22000,unemployed,small city
+male,non-single,54,university,38000,official duties,mid city
+male,single,35,high school,17000,unemployed,small city
+male,single,54,high school,39000,official duties,big city
+female,non-single,48,university,34000,unemployed,small city
+female,non-single,24,high school,42000,official duties,small city
+male,single,35,high school,32000,official duties,small city
+female,non-single,24,high school,36000,unemployed,small city
+male,single,24,unknown,56000,official duties,big city
+male,non-single,26,high school,23000,unemployed,small city
+male,single,65,university,40000,official duties,big city
+male,single,55,high school,77000,management,big city
+female,non-single,26,high school,18000,unemployed,small city
+male,non-single,26,high school,34000,official duties,big city
+male,non-single,28,high school,23000,unemployed,small city
+male,single,24,unknown,57000,official duties,mid city
+male,single,54,high school,44000,official duties,big city
+male,single,46,high school,45000,official duties,big city
+female,non-single,54,university,64000,official duties,small city
+male,non-single,62,university,51000,official duties,mid city
+female,non-single,24,high school,34000,official duties,mid city
+male,non-single,43,university,93000,management,big city
+male,non-single,26,high school,32000,official duties,big city
+male,non-single,27,high school,32000,official duties,small city
+male,non-single,24,high school,43000,official duties,big city
+male,single,41,high school,40000,official duties,small city
+male,single,47,high school,25000,unemployed,small city
+male,non-single,35,high school,52000,management,mid city
+male,non-single,30,high school,34000,official duties,small city
+female,non-single,33,high school,44000,official duties,small city
+male,single,36,high school,43000,official duties,big city
+male,single,47,high school,59000,official duties,big city
+male,single,38,high school,54000,official duties,mid city
+male,single,44,high school,48000,official duties,mid city
+female,non-single,23,high school,32000,official duties,big city
+male,single,29,unknown,66000,official duties,big city
+female,non-single,42,university,53000,official duties,small city
+female,non-single,25,high school,32000,unemployed,small city
+male,single,48,high school,36000,official duties,mid city
+female,non-single,21,high school,31000,official duties,small city
+female,non-single,23,high school,20000,unemployed,small city
+male,single,63,university,46000,official duties,small city
+male,non-single,46,university,42000,official duties,big city
+male,single,29,unknown,44000,official duties,small city
+male,single,28,unknown,27000,unemployed,small city
+female,non-single,23,high school,35000,official duties,big city
+male,single,50,high school,38000,official duties,small city
+male,single,47,high school,43000,official duties,big city
+male,single,35,high school,45000,official duties,small city
+male,single,68,university,60000,official duties,big city
+male,non-single,28,high school,32000,official duties,mid city
+male,single,59,university,40000,official duties,small city
+male,single,57,university,27000,unemployed,small city
+male,non-single,33,high school,37000,official duties,big city
+male,single,43,high school,44000,official duties,small city
+male,single,35,high school,34000,official duties,small city
+male,single,32,unknown,23000,unemployed,small city
+male,single,45,high school,67000,official duties,mid city
+male,non-single,33,high school,39000,official duties,big city
+female,non-single,40,university,36000,official duties,big city
+male,single,28,unknown,38000,official duties,small city
+female,non-single,29,high school,43000,official duties,big city
+male,single,26,unknown,43000,official duties,big city
+male,single,27,unknown,59000,official duties,mid city
+male,non-single,28,high school,35000,official duties,small city
+female,non-single,35,high school,39000,official duties,big city
+male,single,32,unknown,46000,unemployed,small city
+male,single,25,unknown,24000,unemployed,small city
+female,non-single,20,high school,44000,official duties,big city
+female,non-single,27,high school,37000,official duties,big city
+male,single,42,high school,42000,official duties,big city
+male,single,37,high school,54000,official duties,big city
+female,non-single,24,high school,31000,official duties,small city
+female,non-single,40,university,67000,official duties,big city
+male,single,46,high school,43000,official duties,big city
+male,single,26,unknown,36000,official duties,big city
+female,non-single,24,high school,32000,official duties,big city
+male,single,29,unknown,29000,unemployed,big city
+female,non-single,40,university,54000,official duties,mid city
+male,single,36,high school,46000,management,big city
+male,single,28,unknown,39000,official duties,mid city
+male,single,27,unknown,42000,management,mid city
+male,single,36,high school,51000,official duties,small city
+male,single,38,high school,65000,management,big city
+male,non-single,48,university,63000,official duties,small city
+male,single,36,high school,40000,official duties,mid city
+female,non-single,65,graduate,23000,unemployed,small city
+male,non-single,43,university,48000,official duties,mid city
+female,non-single,53,university,39000,official duties,mid city
+male,single,34,high school,41000,official duties,mid city
+male,single,23,unknown,79000,official duties,mid city
+male,single,34,high school,60000,management,big city
+male,single,40,high school,56000,official duties,small city
+male,single,43,high school,49000,management,big city
+male,single,46,high school,38000,official duties,mid city
+male,single,38,high school,27000,unemployed,small city
+male,single,34,high school,51000,official duties,big city
+male,single,29,unknown,31000,official duties,big city
+male,single,31,unknown,67000,management,big city
+female,non-single,28,high school,48000,management,mid city
+female,non-single,35,high school,50000,official duties,small city
+female,non-single,33,high school,28000,unemployed,small city
+male,single,42,high school,44000,official duties,big city
+male,single,43,high school,40000,official duties,big city
+male,non-single,44,university,44000,official duties,small city
+male,single,42,high school,65000,official duties,big city
+male,non-single,40,high school,36000,official duties,mid city
+male,single,36,high school,44000,management,mid city
+male,single,20,unknown,39000,management,big city
+male,single,24,unknown,28000,unemployed,small city
+male,non-single,27,high school,43000,official duties,small city
+female,non-single,46,university,36000,unemployed,small city
+female,non-single,33,high school,34000,unemployed,small city
+female,non-single,34,high school,46000,official duties,mid city
+female,non-single,25,high school,37000,unemployed,small city
+female,non-single,25,high school,42000,official duties,mid city
+male,non-single,28,high school,49000,official duties,big city
+male,single,31,unknown,38000,official duties,small city
+female,non-single,32,high school,103000,management,mid city
+male,single,32,unknown,42000,official duties,small city
+male,single,68,university,96000,management,big city
+male,non-single,33,high school,42000,official duties,big city
+male,single,39,high school,51000,management,big city
+female,non-single,28,high school,36000,official duties,mid city
+male,single,37,high school,90000,management,mid city
+female,non-single,22,high school,33000,official duties,big city
+male,single,30,unknown,37000,official duties,mid city
+male,non-single,55,university,58000,official duties,small city
+male,single,46,high school,34000,official duties,mid city
+female,non-single,21,high school,31000,official duties,big city
+male,single,39,high school,63000,official duties,big city
+male,single,58,university,41000,official duties,small city
+male,single,43,high school,26000,unemployed,small city
+male,single,24,unknown,22000,unemployed,small city
+female,non-single,22,high school,37000,official duties,small city
+male,single,30,unknown,32000,official duties,big city
+male,single,42,high school,42000,official duties,big city
+female,non-single,23,high school,33000,official duties,small city
+male,single,30,unknown,52000,management,mid city
+female,non-single,28,high school,28000,unemployed,small city
+male,non-single,30,high school,49000,management,small city
+male,single,42,high school,54000,official duties,mid city
+male,single,46,high school,64000,management,big city
+male,single,45,high school,53000,management,big city
+male,single,31,unknown,23000,unemployed,small city
+male,single,31,unknown,31000,official duties,big city
+male,single,42,high school,26000,unemployed,small city
+female,non-single,46,university,41000,official duties,small city
+female,non-single,30,high school,69000,official duties,small city
+male,single,30,unknown,48000,official duties,big city
+male,single,38,high school,49000,management,mid city
+male,non-single,43,university,27000,unemployed,small city
+male,single,31,unknown,44000,official duties,mid city
+male,non-single,40,high school,26000,unemployed,small city
+male,single,24,unknown,33000,official duties,big city
+female,non-single,28,high school,55000,official duties,small city
+female,non-single,26,high school,74000,management,mid city
+female,non-single,29,high school,36000,official duties,big city
+female,non-single,57,university,65000,management,mid city
+male,single,49,high school,41000,unemployed,small city
+male,single,37,high school,27000,unemployed,small city
+male,single,45,high school,35000,unemployed,small city
+male,single,30,unknown,45000,official duties,big city
+male,non-single,30,high school,35000,official duties,mid city
+male,non-single,47,university,44000,official duties,mid city
+male,single,29,unknown,39000,official duties,big city
+male,single,35,high school,46000,official duties,small city
+male,non-single,22,high school,21000,unemployed,small city
+female,non-single,26,high school,38000,official duties,big city
+male,single,23,unknown,36000,unemployed,small city
+female,non-single,54,university,58000,management,big city
+male,non-single,29,high school,52000,official duties,big city
+male,single,40,high school,33000,unemployed,small city
+male,single,22,unknown,38000,official duties,big city
+male,single,43,high school,45000,unemployed,small city
+female,non-single,29,high school,14000,unemployed,small city
+male,single,36,high school,53000,official duties,mid city
+female,non-single,33,high school,40000,official duties,small city
+female,non-single,57,university,47000,unemployed,small city
+female,non-single,64,graduate,45000,official duties,small city
+male,single,42,high school,42000,official duties,big city
+male,single,47,high school,31000,unemployed,small city
+male,non-single,25,high school,39000,official duties,big city
+male,single,49,high school,63000,official duties,mid city
+male,single,33,high school,54000,management,big city
+female,non-single,28,high school,60000,management,big city
+male,single,26,unknown,53000,official duties,mid city
+male,single,30,unknown,24000,unemployed,small city
+female,non-single,25,high school,34000,official duties,big city
+male,non-single,33,high school,56000,official duties,mid city
+female,non-single,64,graduate,48000,official duties,small city
+male,single,29,unknown,59000,management,mid city
+male,single,48,high school,31000,unemployed,small city
+male,single,37,high school,31000,unemployed,small city
+male,single,34,high school,29000,unemployed,small city
+male,non-single,23,high school,23000,unemployed,small city
+male,single,30,unknown,51000,management,big city
+male,single,50,high school,41000,official duties,mid city
+female,non-single,31,high school,26000,unemployed,small city
+male,non-single,40,high school,54000,management,mid city
+male,single,38,high school,33000,official duties,big city
+male,single,23,unknown,32000,official duties,small city
+male,single,27,unknown,49000,official duties,mid city
+female,non-single,63,university,45000,official duties,mid city
+male,single,66,university,53000,management,big city
+male,non-single,43,university,68000,management,mid city
+male,non-single,44,university,94000,management,big city
+male,non-single,65,graduate,23000,unemployed,big city
+female,non-single,73,graduate,71000,management,mid city
+male,single,60,university,46000,official duties,mid city
+male,non-single,62,university,58000,official duties,mid city
+female,non-single,58,university,42000,official duties,mid city
+female,non-single,43,university,56000,management,big city
+male,single,64,university,41000,official duties,big city
+male,non-single,37,graduate,57000,management,big city
+female,non-single,46,university,64000,management,mid city
+male,non-single,57,university,48000,official duties,big city
+male,non-single,51,university,45000,official duties,mid city
+female,non-single,32,graduate,57000,management,big city
+male,single,64,university,43000,official duties,big city
+male,single,68,university,45000,official duties,mid city
+female,non-single,55,university,57000,management,big city
+male,single,73,university,64000,management,mid city
+female,non-single,34,graduate,45000,official duties,big city
+male,non-single,44,university,49000,official duties,mid city
+male,single,58,university,89000,official duties,mid city
+female,non-single,65,university,47000,unemployed,mid city
+female,non-single,56,university,61000,official duties,mid city
+female,non-single,42,university,73000,management,big city
+female,non-single,65,graduate,48000,official duties,big city
+male,single,72,university,75000,management,big city
+female,non-single,45,university,88000,management,big city
+male,single,68,university,96000,management,big city
+male,single,60,university,55000,management,mid city
+female,non-single,30,graduate,44000,unemployed,big city
+male,single,63,university,43000,official duties,mid city
+male,single,57,university,94000,management,mid city
+female,non-single,46,university,54000,official duties,big city
+female,non-single,70,graduate,56000,official duties,mid city
+male,single,65,university,60000,official duties,big city
+male,single,63,university,91000,management,big city
+male,non-single,54,university,50000,official duties,big city
+male,non-single,49,university,42000,official duties,big city
+female,non-single,64,university,51000,official duties,big city
+female,non-single,61,university,103000,management,big city
+female,non-single,57,university,52000,official duties,big city
+female,non-single,42,university,67000,official duties,big city
+male,single,62,university,42000,official duties,big city
+female,non-single,41,university,43000,official duties,big city
+female,non-single,51,university,53000,management,mid city
+female,non-single,38,university,45000,official duties,big city
+female,non-single,56,university,55000,management,big city
+female,non-single,43,university,49000,official duties,mid city
+female,non-single,48,university,54000,official duties,mid city
+male,single,61,university,46000,official duties,mid city
+male,non-single,48,university,71000,management,big city
+male,single,68,university,42000,official duties,big city
+female,non-single,62,university,55000,official duties,mid city
+female,non-single,56,university,58000,management,big city
+female,non-single,53,university,42000,official duties,mid city
+male,non-single,33,graduate,56000,official duties,big city
+female,non-single,60,university,63000,official duties,mid city
+female,non-single,47,university,54000,official duties,mid city
+male,non-single,25,graduate,71000,management,big city
+male,single,64,university,62000,official duties,mid city
+male,single,73,university,72000,management,mid city
+male,non-single,66,university,51000,official duties,mid city
+female,non-single,76,graduate,57000,management,mid city
+female,non-single,60,university,65000,management,mid city
+female,non-single,57,university,42000,official duties,big city
+male,non-single,30,graduate,44000,official duties,big city
+male,non-single,43,university,53000,management,mid city
+male,single,57,university,55000,official duties,big city
+male,non-single,51,university,50000,official duties,mid city
+female,non-single,61,university,45000,official duties,mid city
+male,single,64,university,53000,management,big city
+male,non-single,41,university,68000,management,mid city
+male,non-single,43,university,94000,management,big city
+male,non-single,67,graduate,24000,unemployed,big city
+female,non-single,71,graduate,71000,management,mid city
+male,single,59,university,45000,official duties,mid city
+male,non-single,60,university,59000,official duties,mid city
+female,non-single,60,university,43000,official duties,mid city
+female,non-single,45,university,56000,management,big city
+male,single,63,university,41000,official duties,big city
+male,non-single,38,graduate,56000,management,big city
+female,non-single,46,university,64000,management,mid city
+male,non-single,55,university,49000,official duties,big city
+male,non-single,50,university,45000,official duties,mid city
+female,non-single,30,graduate,56000,management,big city
+male,single,63,university,43000,official duties,big city
+male,single,67,university,45000,official duties,mid city
+female,non-single,54,university,57000,management,big city
+male,single,71,university,64000,management,mid city
+female,non-single,32,graduate,44000,official duties,big city
+female,non-single,45,university,87000,management,big city
+male,single,65,university,95000,management,big city
+male,single,62,university,55000,management,mid city
+female,non-single,28,graduate,43000,unemployed,big city
+male,single,65,university,43000,official duties,mid city
+male,single,57,university,94000,management,mid city
+female,non-single,48,university,52000,official duties,big city
+female,non-single,71,graduate,55000,official duties,mid city
+male,single,38,high school,27000,official duties,mid city
+male,non-single,40,high school,36000,official duties,mid city
+male,single,49,high school,41000,official duties,mid city
+male,non-single,32,high school,52000,management,mid city
+male,single,45,high school,43000,official duties,mid city
+male,single,40,high school,51000,management,mid city
+male,single,66,university,55000,management,big city
+male,single,38,high school,41000,official duties,big city
+male,non-single,20,high school,30000,official duties,mid city
+male,single,48,high school,39000,official duties,mid city
+male,non-single,46,university,56000,management,mid city
+male,single,32,high school,46000,management,big city
+male,single,54,high school,37000,official duties,mid city
+male,non-single,24,high school,31000,management,big city
+male,non-single,27,high school,60000,management,mid city
+male,single,57,high school,42000,official duties,big city
+male,single,38,high school,46000,management,mid city
+male,single,40,high school,48000,official duties,mid city
+male,non-single,20,high school,36000,official duties,big city
+male,single,36,high school,38000,management,big city
+male,single,47,high school,46000,official duties,big city
+male,single,64,university,42000,unemployed,big city
+male,single,42,high school,53000,management,big city
+male,single,44,high school,60000,management,big city
+male,non-single,30,high school,30000,management,big city
+male,single,37,high school,34000,official duties,mid city
+male,single,42,high school,45000,official duties,big city
+male,non-single,62,university,56000,official duties,mid city
+male,single,49,high school,60000,official duties,big city
+male,single,52,high school,53000,official duties,big city
+male,non-single,36,high school,57000,management,mid city
+male,single,49,high school,48000,unemployed,mid city
+male,single,42,high school,43000,management,big city
+male,single,38,high school,38000,official duties,mid city
+male,single,50,high school,42000,official duties,mid city
+male,non-single,34,high school,43000,management,big city
+male,single,43,high school,41000,official duties,big city
+male,single,40,high school,54000,official duties,mid city
+male,single,56,university,42000,official duties,mid city
+male,single,41,high school,48000,management,big city
+male,non-single,30,high school,41000,management,big city
+male,non-single,28,high school,43000,official duties,big city
+male,single,64,university,45000,unemployed,big city
+male,single,67,university,37000,official duties,big city
+male,single,37,high school,51000,management,mid city
+male,single,31,high school,52000,management,mid city
+male,single,32,high school,48000,management,big city
+male,non-single,52,university,46000,official duties,big city
+male,non-single,31,high school,35000,official duties,mid city
+male,single,36,high school,48000,management,mid city
+male,non-single,32,high school,49000,management,mid city
+male,single,51,high school,42000,official duties,big city
+male,single,47,high school,37000,management,mid city
+male,non-single,34,high school,37000,official duties,big city
+male,non-single,46,university,50000,official duties,mid city
+male,non-single,42,high school,59000,official duties,mid city
+male,single,39,high school,30000,management,mid city
+male,single,50,high school,57000,official duties,big city
+male,single,42,high school,47000,official duties,big city
+male,non-single,36,high school,44000,official duties,mid city
+male,non-single,18,high school,33000,official duties,mid city
+male,single,35,high school,61000,management,big city
+male,single,38,high school,51000,official duties,big city
+male,single,39,high school,45000,management,big city
+male,non-single,24,high school,41000,unemployed,big city
+male,single,41,high school,61000,official duties,mid city
+male,single,36,high school,50000,management,big city
+male,single,37,high school,51000,management,big city
+male,non-single,45,university,45000,official duties,mid city
+male,single,41,high school,45000,management,big city
+male,single,36,high school,59000,management,big city
+male,single,38,high school,39000,unemployed,big city
+male,single,38,high school,46000,unemployed,mid city
+male,non-single,53,university,53000,management,big city
+male,single,35,high school,38000,official duties,big city
+male,single,48,high school,57000,management,big city
+male,single,36,high school,34000,official duties,big city
+male,non-single,22,high school,39000,management,mid city
+male,single,35,high school,47000,management,big city
+male,single,42,high school,52000,unemployed,mid city
+male,single,39,high school,39000,unemployed,mid city
+male,single,31,high school,48000,official duties,mid city
+male,single,33,high school,52000,management,big city
+male,non-single,31,high school,36000,unemployed,mid city
+male,single,42,high school,34000,official duties,mid city
+male,single,61,university,48000,unemployed,mid city
+male,single,38,high school,53000,management,big city
+male,single,33,high school,33000,unemployed,mid city
+male,single,48,high school,53000,official duties,big city
+male,single,31,high school,41000,unemployed,mid city
+male,single,52,high school,47000,management,big city
+male,non-single,27,high school,41000,official duties,big city
+male,single,40,high school,48000,management,mid city
+male,single,34,high school,38000,unemployed,mid city
+male,non-single,26,high school,33000,management,big city
+male,single,30,high school,51000,unemployed,mid city
+male,single,53,high school,59000,official duties,mid city
+male,single,45,high school,43000,official duties,big city
+male,single,32,high school,38000,management,mid city
+male,single,35,high school,61000,management,big city
+male,non-single,26,high school,59000,official duties,big city
+male,single,30,high school,37000,official duties,mid city
+male,single,37,high school,37000,official duties,mid city
+male,single,32,high school,32000,management,mid city
+male,non-single,40,high school,52000,official duties,mid city
+male,single,44,high school,42000,unemployed,big city
+male,single,43,high school,44000,official duties,big city
+male,single,51,high school,37000,official duties,mid city
+male,single,37,high school,35000,unemployed,mid city
+male,single,33,high school,50000,official duties,big city
+male,non-single,32,high school,59000,management,mid city
+male,single,35,high school,37000,unemployed,big city
+male,non-single,30,high school,38000,official duties,mid city
+male,non-single,35,high school,52000,management,big city
+male,single,40,high school,48000,management,mid city
+male,single,37,high school,47000,management,big city
+male,single,37,high school,35000,official duties,big city
+male,single,37,high school,42000,official duties,big city
+male,single,53,high school,53000,management,mid city
+male,single,34,high school,51000,management,mid city
+male,single,51,high school,52000,official duties,mid city
+male,non-single,26,high school,32000,official duties,big city
+male,single,34,high school,59000,unemployed,mid city
+male,single,51,high school,42000,management,mid city
+male,single,33,high school,39000,official duties,big city
+male,non-single,32,high school,39000,unemployed,big city
+male,single,39,high school,38000,official duties,mid city
+male,single,53,high school,56000,official duties,mid city
+male,single,34,high school,32000,management,big city
+male,single,37,high school,47000,official duties,big city
+male,non-single,28,high school,38000,official duties,mid city
+male,non-single,25,high school,34000,official duties,big city
+male,single,36,high school,51000,management,big city
+male,non-single,36,high school,41000,official duties,big city
+male,single,35,high school,40000,official duties,big city
+male,non-single,21,high school,53000,official duties,mid city
+male,non-single,29,high school,36000,official duties,big city
+male,single,60,university,65000,official duties,mid city
+male,single,45,high school,45000,official duties,mid city
+male,non-single,56,university,36000,unemployed,mid city
+male,non-single,30,high school,40000,official duties,big city
+male,single,52,high school,51000,management,big city
+male,non-single,26,high school,40000,official duties,mid city
+male,single,43,high school,41000,official duties,mid city
+male,single,34,high school,38000,official duties,mid city
+male,non-single,22,high school,44000,official duties,big city
+male,single,42,high school,31000,unemployed,mid city
+male,single,38,high school,42000,unemployed,mid city
+male,non-single,29,high school,39000,official duties,big city
+male,single,44,high school,36000,official duties,big city
+male,non-single,29,high school,35000,management,mid city
+male,single,44,high school,47000,official duties,big city
+male,single,38,high school,51000,official duties,big city
+male,non-single,26,high school,37000,unemployed,mid city
+male,single,53,high school,53000,official duties,mid city
+male,single,43,high school,48000,official duties,mid city
+male,single,33,high school,41000,official duties,mid city
+male,single,52,high school,43000,unemployed,mid city
+male,non-single,26,high school,32000,unemployed,big city
+male,single,38,high school,59000,management,mid city
+male,single,47,high school,55000,official duties,big city
+male,non-single,26,high school,40000,official duties,mid city
+male,non-single,36,high school,55000,official duties,mid city
+male,single,36,high school,40000,official duties,mid city
+male,single,57,university,51000,management,mid city
+male,non-single,31,high school,35000,management,big city
+male,single,45,high school,45000,official duties,mid city
+male,single,40,high school,51000,management,mid city
+male,non-single,21,high school,40000,official duties,mid city
+male,single,46,high school,42000,official duties,big city
+male,single,35,high school,42000,official duties,big city
+male,non-single,31,high school,46000,unemployed,big city
+male,single,51,high school,42000,official duties,big city
+male,non-single,21,high school,34000,management,mid city
+male,single,48,high school,52000,official duties,mid city
+male,single,48,high school,47000,official duties,big city
+male,single,68,university,50000,unemployed,mid city
+male,non-single,45,university,39000,official duties,big city
+male,single,35,high school,50000,management,big city
+male,non-single,22,high school,33000,official duties,big city
+male,single,44,high school,41000,unemployed,mid city
+male,single,52,high school,53000,official duties,mid city
+male,single,48,high school,43000,official duties,big city
+male,single,33,high school,47000,official duties,big city
+male,non-single,35,high school,41000,official duties,mid city
+male,non-single,64,university,52000,official duties,mid city
+male,single,58,high school,50000,unemployed,big city
+male,non-single,24,high school,39000,unemployed,big city
+male,single,40,high school,39000,unemployed,big city
+male,single,49,high school,40000,management,big city
+male,single,31,high school,46000,official duties,big city
+male,single,46,high school,33000,official duties,big city
+male,single,46,high school,36000,official duties,mid city
+male,single,49,high school,41000,official duties,mid city
+male,single,29,high school,45000,unemployed,mid city
+male,single,37,high school,38000,official duties,big city
+male,single,33,high school,50000,management,mid city
+male,single,71,university,57000,official duties,big city
+male,single,35,high school,39000,official duties,big city
+male,single,40,high school,37000,official duties,big city
+female,single,27,high school,30000,unemployed,small city
+female,single,61,university,38000,unemployed,small city
+female,non-single,29,high school,33000,official duties,mid city
+female,single,33,high school,36000,official duties,small city
+female,single,56,university,46000,unemployed,small city
+female,non-single,27,high school,41000,official duties,mid city
+female,non-single,22,high school,46000,official duties,small city
+female,non-single,19,high school,33000,official duties,small city
+female,non-single,28,high school,30000,official duties,mid city
+female,non-single,24,high school,37000,official duties,mid city
+female,non-single,27,high school,22000,unemployed,small city
+female,non-single,30,high school,42000,official duties,mid city
+female,single,26,high school,28000,unemployed,small city
+female,non-single,26,high school,41000,official duties,small city
+female,non-single,23,high school,31000,official duties,mid city
+female,non-single,28,high school,32000,official duties,small city
+female,non-single,67,graduate,48000,official duties,small city
+female,non-single,27,high school,36000,official duties,mid city
+female,non-single,32,high school,33000,official duties,small city
+female,single,24,high school,36000,unemployed,small city
+female,non-single,28,high school,39000,official duties,mid city
+female,single,48,university,40000,unemployed,small city
+female,non-single,32,high school,46000,official duties,mid city
+female,non-single,25,high school,31000,official duties,small city
+female,non-single,57,university,21000,unemployed,small city
+female,non-single,28,high school,42000,official duties,small city
+female,non-single,24,high school,41000,official duties,mid city
+female,non-single,25,high school,21000,unemployed,small city
+female,single,31,high school,30000,unemployed,small city
+female,single,33,high school,35000,official duties,mid city
+female,non-single,50,university,49000,official duties,small city
+female,non-single,58,university,46000,unemployed,mid city
+female,non-single,27,high school,36000,unemployed,small city
+female,non-single,48,university,39000,unemployed,small city
+female,non-single,22,high school,29000,unemployed,small city
+female,non-single,40,high school,41000,unemployed,small city
+female,non-single,32,high school,40000,official duties,small city
+female,single,25,high school,31000,unemployed,small city
+female,non-single,27,high school,23000,unemployed,small city
+female,non-single,27,high school,29000,unemployed,small city
+female,non-single,23,high school,43000,official duties,small city
+female,non-single,32,high school,36000,official duties,mid city
+female,non-single,25,high school,38000,official duties,mid city
+female,non-single,46,university,46000,unemployed,small city
+female,non-single,21,high school,36000,official duties,mid city
+female,non-single,29,high school,35000,official duties,small city
+female,non-single,31,high school,31000,unemployed,small city
+female,single,26,high school,36000,unemployed,small city
+female,non-single,23,high school,38000,official duties,mid city
+female,single,38,high school,34000,official duties,mid city
+female,single,35,high school,28000,unemployed,small city
+female,non-single,27,high school,34000,official duties,mid city
+female,non-single,22,high school,44000,official duties,mid city
+female,non-single,52,university,41000,official duties,small city
+female,non-single,19,high school,33000,official duties,mid city
+female,non-single,23,high school,38000,official duties,small city
+female,single,42,high school,37000,official duties,small city
+female,non-single,27,high school,35000,official duties,mid city
+female,non-single,39,university,30000,unemployed,small city
+female,non-single,50,university,43000,official duties,mid city
+female,non-single,36,high school,45000,official duties,small city
+female,non-single,25,high school,39000,official duties,mid city
+female,non-single,27,high school,22000,unemployed,small city
+female,non-single,30,high school,40000,official duties,small city
+female,single,22,high school,21000,unemployed,small city
+female,non-single,27,high school,41000,official duties,mid city
+female,single,31,high school,48000,management,mid city
+female,non-single,29,high school,33000,official duties,small city
+female,single,34,high school,12000,unemployed,small city
+female,single,33,high school,24000,unemployed,small city
+female,non-single,26,high school,38000,official duties,small city
+female,non-single,36,high school,49000,official duties,mid city
+female,non-single,26,high school,18000,unemployed,small city
+female,non-single,39,high school,27000,unemployed,small city
+female,non-single,44,university,26000,unemployed,small city
+female,non-single,46,university,33000,unemployed,small city
+female,non-single,31,high school,34000,unemployed,small city
+female,single,26,high school,40000,official duties,small city
+female,non-single,22,high school,30000,official duties,mid city
+female,single,48,university,35000,unemployed,small city
+female,non-single,27,high school,34000,official duties,small city
+female,single,30,high school,19000,unemployed,small city
+female,non-single,27,high school,39000,official duties,mid city
+female,non-single,36,high school,36000,official duties,mid city
+female,non-single,31,high school,43000,official duties,small city
+female,single,21,high school,41000,official duties,small city
+female,non-single,26,high school,36000,official duties,mid city
+female,single,24,high school,35000,official duties,small city
+female,non-single,29,high school,33000,official duties,small city
+female,non-single,32,high school,42000,official duties,small city
+female,non-single,45,university,28000,unemployed,small city
+female,non-single,58,university,35000,unemployed,small city
+female,non-single,25,high school,30000,official duties,small city
+female,non-single,67,graduate,45000,official duties,small city
+female,non-single,53,university,36000,unemployed,small city
+female,non-single,24,high school,41000,official duties,small city
+female,single,20,high school,30000,unemployed,small city
+female,non-single,71,graduate,44000,unemployed,small city
+female,non-single,31,high school,40000,official duties,mid city
+female,non-single,27,high school,14000,unemployed,small city
+female,non-single,36,high school,43000,unemployed,small city
+female,non-single,25,high school,38000,official duties,small city
+female,single,41,high school,44000,official duties,small city
+female,non-single,30,high school,36000,official duties,mid city
+female,non-single,32,high school,44000,official duties,mid city
+female,non-single,29,high school,42000,unemployed,small city
+female,single,27,high school,26000,unemployed,small city
+female,non-single,32,high school,41000,official duties,small city
+female,non-single,25,high school,25000,unemployed,small city
+female,single,24,high school,37000,official duties,small city
+female,non-single,63,university,29000,unemployed,small city
+female,single,42,university,38000,unemployed,small city
+female,non-single,22,high school,36000,unemployed,small city
+female,non-single,46,university,48000,official duties,mid city
+female,non-single,24,high school,33000,official duties,mid city
+female,single,30,high school,46000,official duties,mid city
+female,non-single,44,university,36000,unemployed,small city
+female,single,25,high school,35000,official duties,small city
+female,non-single,27,high school,32000,official duties,small city
+female,non-single,27,high school,47000,official duties,mid city
+female,non-single,34,high school,37000,official duties,mid city
+female,non-single,18,high school,33000,official duties,mid city
+female,non-single,25,high school,33000,official duties,mid city
+female,non-single,21,high school,21000,unemployed,small city
+female,non-single,26,high school,39000,official duties,mid city
+female,non-single,27,high school,44000,management,mid city
+female,single,25,high school,45000,official duties,mid city
+female,non-single,30,high school,33000,official duties,mid city
+female,single,66,graduate,44000,official duties,small city
+female,non-single,25,high school,35000,official duties,mid city
+female,non-single,43,university,46000,official duties,small city
+female,non-single,35,high school,46000,official duties,mid city
+female,single,70,graduate,23000,unemployed,small city
+female,single,35,high school,23000,unemployed,small city
+female,non-single,26,high school,35000,official duties,small city
+female,single,29,high school,26000,unemployed,small city
+female,non-single,22,high school,37000,unemployed,small city
+female,single,26,high school,39000,official duties,mid city
+female,non-single,36,high school,31000,unemployed,small city
+female,non-single,35,high school,36000,official duties,mid city
+female,non-single,28,high school,39000,official duties,mid city
+female,non-single,24,high school,34000,official duties,small city
+female,non-single,34,high school,31000,unemployed,small city
+female,non-single,25,high school,36000,official duties,small city
+female,non-single,54,university,17000,unemployed,small city
+female,single,46,university,35000,unemployed,small city
+female,non-single,42,high school,17000,unemployed,small city
+female,single,45,university,42000,unemployed,small city
+female,single,48,university,37000,unemployed,small city
+female,single,21,high school,34000,unemployed,small city
+female,non-single,31,high school,41000,official duties,small city
+female,single,35,high school,46000,official duties,mid city
+female,non-single,36,high school,37000,official duties,mid city
+female,non-single,32,high school,33000,unemployed,small city
+female,non-single,26,high school,36000,unemployed,small city
+female,non-single,34,high school,48000,official duties,small city
+female,non-single,65,university,45000,official duties,mid city
+female,non-single,50,university,31000,unemployed,small city
+female,non-single,39,high school,33000,official duties,small city
+female,single,52,university,41000,unemployed,small city
+female,non-single,36,high school,27000,unemployed,small city
+female,non-single,29,high school,40000,official duties,small city
+female,non-single,36,high school,48000,official duties,mid city
+female,non-single,36,high school,29000,unemployed,small city
+female,non-single,27,high school,48000,official duties,mid city
+female,non-single,36,high school,45000,management,mid city
+female,non-single,26,high school,35000,official duties,mid city
+female,single,57,university,38000,official duties,mid city
+female,single,27,high school,34000,unemployed,small city
+female,non-single,58,university,36000,unemployed,small city
+female,non-single,27,high school,21000,unemployed,small city
+female,non-single,49,university,40000,official duties,small city
+female,non-single,43,university,34000,official duties,small city
+female,single,45,university,31000,unemployed,small city
+female,non-single,27,high school,33000,unemployed,small city
+female,non-single,34,high school,33000,official duties,mid city
+female,non-single,21,high school,27000,unemployed,small city
+female,non-single,54,university,42000,official duties,mid city
+female,non-single,43,university,36000,unemployed,small city
+female,single,25,high school,29000,unemployed,small city
+female,single,57,university,37000,unemployed,small city
+female,non-single,26,high school,34000,official duties,mid city
+female,single,30,high school,37000,official duties,small city
+female,single,58,university,47000,unemployed,small city
+female,non-single,25,high school,41000,official duties,mid city
+female,non-single,23,high school,46000,official duties,small city
+female,single,22,high school,35000,official duties,small city
+female,non-single,21,high school,30000,official duties,mid city
+female,non-single,20,high school,38000,official duties,mid city
+female,non-single,22,high school,20000,unemployed,small city
+female,single,27,high school,42000,official duties,mid city
+female,single,24,high school,27000,unemployed,small city
+female,non-single,23,high school,41000,official duties,small city
+female,non-single,26,high school,34000,official duties,mid city
+female,single,28,high school,34000,official duties,small city
+female,non-single,64,graduate,47000,official duties,small city
+female,non-single,26,high school,35000,official duties,mid city
+female,non-single,31,high school,35000,official duties,small city
+female,single,28,high school,37000,unemployed,small city
+female,non-single,25,high school,39000,official duties,mid city
+female,single,49,university,39000,unemployed,small city
+female,non-single,33,high school,45000,official duties,mid city
+female,single,27,high school,32000,official duties,small city
+female,non-single,59,university,21000,unemployed,small city
+female,non-single,28,high school,41000,official duties,small city
+female,non-single,24,high school,40000,official duties,mid city
+female,non-single,26,high school,22000,unemployed,small city
+female,single,33,high school,28000,unemployed,small city
+female,single,37,high school,36000,official duties,mid city
+female,non-single,46,university,51000,official duties,small city
+female,non-single,62,university,47000,unemployed,mid city
+female,single,26,high school,33000,unemployed,small city
+female,non-single,49,university,41000,unemployed,small city
+female,non-single,25,high school,30000,unemployed,small city
+female,non-single,37,high school,42000,unemployed,small city
+female,single,31,high school,41000,official duties,small city
+female,single,25,high school,31000,unemployed,small city
+female,non-single,21,high school,23000,unemployed,small city
+female,non-single,27,high school,27000,unemployed,small city
+female,non-single,29,high school,42000,official duties,small city
+female,non-single,30,high school,34000,official duties,mid city
+female,non-single,26,high school,39000,official duties,mid city
+female,non-single,40,university,46000,unemployed,small city
+female,non-single,23,high school,35000,official duties,mid city
+female,non-single,31,high school,32000,official duties,small city
+female,non-single,29,high school,30000,unemployed,small city
+female,single,22,high school,35000,unemployed,small city
+female,non-single,26,high school,36000,official duties,mid city
+female,single,39,high school,35000,official duties,mid city
+female,single,35,high school,28000,unemployed,small city
+female,non-single,26,high school,32000,official duties,mid city
+female,non-single,28,high school,45000,official duties,mid city
+female,non-single,56,university,44000,official duties,small city
+female,non-single,22,high school,32000,official duties,mid city
+female,non-single,26,high school,36000,official duties,small city
+female,single,41,high school,38000,official duties,small city
+female,non-single,29,high school,36000,official duties,mid city
+female,non-single,42,university,28000,unemployed,small city
+female,non-single,50,university,42000,official duties,mid city
+female,non-single,33,high school,45000,official duties,small city
+female,non-single,28,high school,39000,official duties,mid city
+female,non-single,27,high school,23000,unemployed,small city
+female,non-single,27,high school,41000,official duties,small city
+female,single,28,high school,21000,unemployed,small city
+female,non-single,24,high school,41000,official duties,mid city
+female,single,28,high school,47000,management,mid city
+female,non-single,32,high school,33000,official duties,small city
+female,single,32,high school,15000,unemployed,small city
+female,single,30,high school,24000,unemployed,small city
+female,non-single,29,high school,37000,official duties,small city
+female,non-single,37,high school,48000,official duties,mid city
+female,non-single,24,high school,17000,unemployed,small city
+female,non-single,36,high school,25000,unemployed,small city
+female,non-single,40,university,29000,unemployed,small city
+female,non-single,51,university,33000,unemployed,small city
+female,non-single,33,high school,36000,unemployed,small city
+female,single,31,high school,39000,official duties,small city
+female,non-single,29,high school,33000,official duties,mid city
+female,single,48,university,36000,unemployed,small city
+female,non-single,25,high school,32000,official duties,small city
+female,single,28,high school,19000,unemployed,small city
+female,non-single,23,high school,36000,official duties,mid city
+female,non-single,32,high school,37000,official duties,mid city
+female,non-single,34,high school,42000,official duties,small city
+female,single,23,high school,38000,official duties,small city
+female,non-single,25,high school,36000,official duties,mid city
+female,single,25,high school,35000,official duties,small city
+female,non-single,27,high school,35000,official duties,small city
+female,non-single,29,high school,40000,official duties,small city
+female,non-single,46,university,27000,unemployed,small city
+female,non-single,61,university,33000,unemployed,small city
+female,non-single,25,high school,32000,official duties,small city
+female,non-single,67,graduate,43000,official duties,small city
+female,non-single,49,university,34000,unemployed,small city
+female,non-single,21,high school,42000,official duties,small city
+female,single,19,high school,30000,unemployed,small city
+female,non-single,67,graduate,43000,unemployed,small city
+female,non-single,31,high school,37000,official duties,mid city
+female,non-single,27,high school,13000,unemployed,small city
+female,non-single,37,high school,43000,unemployed,small city
+female,non-single,27,high school,38000,official duties,small city
+female,single,36,high school,43000,official duties,small city
+female,non-single,24,high school,34000,official duties,mid city
+female,non-single,31,high school,46000,official duties,mid city
+female,non-single,29,high school,41000,unemployed,small city
+female,single,28,high school,27000,unemployed,small city
+female,non-single,34,high school,42000,official duties,small city
+female,non-single,26,high school,28000,unemployed,small city
+female,single,21,high school,36000,official duties,small city
+female,non-single,63,university,28000,unemployed,small city
+female,single,38,university,39000,unemployed,small city
+female,non-single,20,high school,38000,unemployed,small city
+female,non-single,44,university,48000,official duties,mid city
+female,non-single,31,high school,35000,official duties,mid city
+female,single,33,high school,46000,official duties,mid city
+female,non-single,49,university,36000,unemployed,small city
+female,single,26,high school,36000,official duties,small city
+female,non-single,28,high school,32000,official duties,small city
+female,non-single,30,high school,47000,official duties,mid city
+female,non-single,36,high school,35000,official duties,mid city
+female,non-single,27,high school,18000,unemployed,small city
+male,single,23,unknown,36000,unemployed,small city
+male,single,31,unknown,38000,official duties,small city
+female,non-single,27,high school,32000,official duties,small city
+female,non-single,25,high school,42000,official duties,small city
+female,non-single,23,high school,22000,unemployed,small city
+male,non-single,27,high school,22000,unemployed,small city
+female,single,38,high school,23000,unemployed,small city
+male,single,44,high school,38000,unemployed,small city
+female,non-single,42,high school,15000,unemployed,small city
+female,non-single,25,high school,35000,unemployed,small city
+male,non-single,40,high school,25000,unemployed,small city
+female,non-single,24,high school,39000,unemployed,small city
+female,single,39,high school,32000,unemployed,small city
+male,single,24,unknown,22000,unemployed,small city
+female,single,50,high school,40000,official duties,small city
+female,non-single,28,high school,41000,unemployed,small city
+female,non-single,36,high school,27000,unemployed,small city
+male,single,36,high school,35000,official duties,small city
+female,non-single,40,high school,29000,unemployed,small city
+female,single,31,unknown,25000,unemployed,small city
+male,non-single,27,high school,22000,unemployed,small city
+female,non-single,35,high school,31000,unemployed,small city
+male,single,51,high school,41000,unemployed,small city
+female,single,26,unknown,22000,unemployed,small city
+male,single,33,high school,29000,unemployed,small city
+female,non-single,27,high school,31000,unemployed,small city
+male,single,38,high school,28000,unemployed,small city
+female,single,30,unknown,36000,official duties,small city
+male,single,28,unknown,38000,official duties,small city
+male,single,23,unknown,24000,unemployed,small city
+female,non-single,23,high school,38000,unemployed,small city
+female,non-single,26,high school,42000,official duties,small city
+female,non-single,21,high school,31000,unemployed,small city
+female,single,36,high school,25000,unemployed,small city
+female,non-single,24,high school,22000,unemployed,small city
+male,single,41,high school,40000,official duties,small city
+male,single,42,high school,40000,official duties,small city
+male,single,27,unknown,24000,unemployed,small city
+male,non-single,40,high school,26000,unemployed,small city
+female,non-single,34,high school,30000,unemployed,small city
+male,single,40,high school,35000,unemployed,small city
+male,single,33,high school,33000,official duties,small city
+female,single,49,high school,33000,unemployed,small city
+male,single,28,unknown,27000,unemployed,small city
+female,non-single,26,high school,36000,official duties,small city
+female,single,40,high school,33000,unemployed,small city
+male,single,47,high school,32000,unemployed,small city
+female,non-single,41,high school,43000,official duties,small city
+female,non-single,29,high school,31000,unemployed,small city
+female,non-single,37,high school,30000,unemployed,small city
+male,single,31,unknown,40000,official duties,small city
+male,single,35,high school,37000,official duties,small city
+male,single,35,high school,41000,official duties,small city
+female,non-single,29,high school,25000,unemployed,small city
+female,single,37,high school,42000,official duties,small city
+male,single,37,high school,28000,unemployed,small city
+female,non-single,26,high school,29000,unemployed,small city
+female,non-single,28,high school,26000,unemployed,small city
+female,non-single,23,high school,29000,unemployed,small city
+male,single,38,high school,35000,official duties,small city
+female,non-single,30,high school,33000,official duties,small city
+female,single,45,high school,36000,official duties,small city
+male,single,24,unknown,28000,unemployed,small city
+female,single,35,high school,38000,official duties,small city
+female,non-single,41,high school,39000,official duties,small city
+male,non-single,30,high school,36000,official duties,small city
+female,non-single,30,high school,40000,official duties,small city
+female,non-single,26,high school,31000,unemployed,small city
+female,non-single,25,high school,29000,unemployed,small city
+female,non-single,23,high school,24000,unemployed,small city
+female,non-single,27,high school,28000,unemployed,small city
+female,single,26,unknown,24000,unemployed,small city
+male,single,25,unknown,35000,unemployed,small city
+male,non-single,27,high school,32000,official duties,small city
+female,single,42,high school,27000,unemployed,small city
+male,single,35,high school,29000,unemployed,small city
+female,non-single,25,high school,30000,unemployed,small city
+female,non-single,26,high school,28000,unemployed,small city
+male,single,38,high school,43000,official duties,small city
+female,single,28,unknown,24000,unemployed,small city
+male,non-single,33,high school,37000,official duties,small city
+female,single,40,high school,32000,unemployed,small city
+female,non-single,23,high school,34000,official duties,small city
+female,single,25,unknown,38000,official duties,small city
+female,single,28,unknown,36000,unemployed,small city
+male,single,41,high school,23000,unemployed,small city
+female,single,50,high school,37000,unemployed,small city
+female,non-single,23,high school,37000,official duties,small city
+female,non-single,26,high school,35000,official duties,small city
+female,non-single,22,high school,20000,unemployed,small city
+male,single,37,high school,40000,unemployed,small city
+female,single,38,high school,27000,unemployed,small city
+female,non-single,22,high school,23000,unemployed,small city
+female,single,30,unknown,30000,unemployed,small city
+male,single,38,high school,25000,unemployed,small city
+female,non-single,36,high school,35000,official duties,small city
+male,single,41,high school,24000,unemployed,small city
+female,non-single,29,high school,41000,official duties,small city
+female,non-single,31,high school,36000,official duties,small city
+female,single,31,unknown,33000,official duties,small city
+female,single,21,unknown,23000,unemployed,small city
+male,single,32,unknown,40000,official duties,small city
+female,non-single,35,high school,41000,official duties,small city
+male,single,29,unknown,30000,unemployed,small city
+female,single,34,high school,36000,official duties,small city
+female,single,38,high school,31000,unemployed,small city
+female,non-single,33,high school,15000,unemployed,small city
+female,non-single,28,high school,23000,unemployed,small city
+female,non-single,28,high school,38000,official duties,small city
+male,single,21,unknown,20000,unemployed,small city
+female,non-single,29,high school,33000,unemployed,small city
+female,non-single,26,high school,24000,unemployed,small city
+female,single,40,high school,32000,unemployed,small city
+female,single,25,unknown,16000,unemployed,small city
+male,non-single,20,high school,34000,official duties,small city
+female,non-single,23,high school,21000,unemployed,small city
+female,single,27,unknown,34000,official duties,small city
+female,single,36,high school,34000,official duties,small city
+female,non-single,25,high school,36000,official duties,small city
+female,non-single,25,high school,38000,unemployed,small city
+female,non-single,34,high school,42000,unemployed,small city
+female,single,24,unknown,23000,unemployed,small city
+female,single,36,high school,42000,official duties,small city
+female,single,40,high school,26000,unemployed,small city
+male,single,39,high school,28000,unemployed,small city
+female,single,42,high school,26000,unemployed,small city
+male,single,35,high school,38000,unemployed,small city
+female,non-single,27,high school,33000,official duties,small city
+male,single,27,unknown,22000,unemployed,small city
+female,non-single,23,high school,34000,official duties,small city
+female,non-single,32,high school,42000,official duties,small city
+male,non-single,28,high school,45000,official duties,small city
+male,single,22,unknown,35000,official duties,small city
+male,single,31,unknown,39000,official duties,small city
+female,non-single,22,high school,40000,official duties,small city
+male,single,23,unknown,24000,unemployed,small city
+female,non-single,35,high school,42000,unemployed,small city
+female,non-single,26,high school,37000,unemployed,small city
+female,non-single,28,high school,26000,unemployed,small city
+male,single,54,high school,42000,official duties,small city
+female,single,49,high school,34000,unemployed,small city
+female,single,38,high school,30000,unemployed,small city
+female,single,47,high school,37000,official duties,small city
+female,single,49,high school,41000,unemployed,small city
+female,non-single,30,high school,39000,official duties,small city
+female,single,32,unknown,27000,unemployed,small city
+female,non-single,24,high school,33000,unemployed,small city
+female,single,25,unknown,23000,unemployed,small city
+male,single,33,high school,27000,unemployed,small city
+female,non-single,34,high school,41000,official duties,small city
+female,non-single,24,high school,22000,unemployed,small city
+female,single,36,high school,43000,unemployed,small city
+female,single,41,high school,26000,unemployed,small city
+male,non-single,33,high school,36000,official duties,small city
+female,non-single,26,high school,34000,official duties,small city
+female,single,36,high school,40000,official duties,small city
+female,single,35,high school,39000,unemployed,small city
+male,single,29,unknown,37000,official duties,small city
+female,non-single,26,high school,23000,unemployed,small city
+male,single,31,unknown,23000,unemployed,small city
+male,non-single,26,high school,24000,unemployed,small city
+male,single,47,high school,25000,unemployed,small city
+male,non-single,20,high school,32000,official duties,small city
+male,single,45,high school,36000,unemployed,small city
+male,single,36,high school,39000,official duties,small city
+male,non-single,31,high school,27000,unemployed,small city
+female,single,41,high school,28000,unemployed,small city
+female,single,31,unknown,24000,unemployed,small city
+female,non-single,27,high school,36000,unemployed,small city
+female,non-single,32,high school,41000,official duties,small city
+female,single,43,high school,26000,unemployed,small city
+female,single,32,unknown,23000,unemployed,small city
+female,non-single,29,high school,39000,official duties,small city
+male,single,37,high school,30000,unemployed,small city
+female,single,35,high school,29000,unemployed,small city
+female,non-single,23,high school,24000,unemployed,small city
+male,single,40,high school,35000,official duties,small city
+female,non-single,26,high school,33000,official duties,small city
+male,single,28,unknown,21000,unemployed,small city
+female,non-single,40,high school,35000,official duties,small city
+female,non-single,26,high school,33000,unemployed,small city
+female,non-single,23,high school,38000,official duties,small city
+male,single,26,unknown,36000,unemployed,small city
+male,single,26,unknown,42000,official duties,small city
+female,single,49,high school,31000,unemployed,small city
+female,non-single,26,high school,32000,official duties,small city
+female,single,35,high school,29000,unemployed,small city
+female,non-single,24,high school,27000,unemployed,small city
+female,single,46,high school,26000,unemployed,small city
+male,single,26,unknown,20000,unemployed,small city
+male,single,47,high school,29000,unemployed,small city
+male,single,27,unknown,20000,unemployed,small city
+male,non-single,41,high school,38000,official duties,small city
+female,non-single,29,high school,34000,official duties,small city
+female,non-single,28,high school,13000,unemployed,small city
+female,non-single,33,high school,27000,unemployed,small city
+female,single,50,high school,31000,unemployed,small city
+female,non-single,32,high school,36000,official duties,small city
+male,non-single,31,high school,30000,unemployed,small city
+male,single,52,high school,32000,unemployed,small city
+male,single,53,high school,42000,official duties,small city
+female,non-single,34,high school,29000,unemployed,small city
+female,non-single,22,high school,31000,official duties,small city
+male,non-single,33,high school,28000,unemployed,small city
+male,single,32,unknown,43000,official duties,small city
+female,single,45,high school,35000,unemployed,small city
+male,non-single,25,high school,23000,unemployed,small city
+female,non-single,41,high school,32000,unemployed,small city
+female,single,36,high school,36000,unemployed,small city
+female,non-single,27,high school,37000,official duties,small city
+male,single,40,high school,24000,unemployed,small city
+female,single,37,high school,32000,unemployed,small city
+male,single,35,high school,35000,unemployed,small city
+male,single,34,high school,30000,unemployed,small city
+female,single,28,unknown,39000,official duties,small city
+female,single,44,high school,25000,unemployed,small city
+male,non-single,27,high school,33000,official duties,small city
+female,single,50,high school,38000,official duties,small city
+female,non-single,18,high school,34000,official duties,small city
+female,single,25,unknown,24000,unemployed,small city
+female,non-single,40,high school,23000,unemployed,small city
+male,non-single,28,high school,37000,official duties,small city
+female,non-single,23,high school,20000,unemployed,small city
+female,non-single,35,high school,25000,unemployed,small city
+female,non-single,28,high school,43000,official duties,small city
+female,single,23,unknown,32000,official duties,small city
+male,non-single,34,high school,38000,official duties,small city
+female,non-single,29,high school,17000,unemployed,small city
+female,single,35,high school,34000,official duties,small city
+female,non-single,32,high school,29000,unemployed,small city
+female,single,46,high school,24000,unemployed,small city
+female,non-single,27,high school,38000,official duties,small city
+female,non-single,25,high school,41000,official duties,small city
+female,non-single,27,high school,34000,unemployed,small city
+female,non-single,24,high school,29000,unemployed,small city
+female,single,33,unknown,23000,unemployed,small city
+female,non-single,24,high school,36000,official duties,small city
+female,single,28,unknown,26000,unemployed,small city
+female,single,35,high school,18000,unemployed,small city
+female,non-single,30,high school,40000,official duties,small city
+male,single,43,high school,39000,official duties,small city
+male,non-single,21,high school,38000,unemployed,small city
+female,non-single,24,high school,22000,unemployed,small city
+male,single,34,high school,25000,unemployed,small city
+female,non-single,26,high school,42000,official duties,small city
+male,single,37,high school,36000,official duties,small city
+female,non-single,32,high school,27000,unemployed,small city
+female,non-single,33,high school,36000,unemployed,small city
+male,non-single,28,high school,32000,official duties,small city
+female,non-single,30,high school,38000,official duties,small city
+female,non-single,26,high school,19000,unemployed,small city
+female,single,25,unknown,37000,unemployed,small city
+male,single,33,unknown,38000,official duties,small city
+female,non-single,30,high school,31000,official duties,small city
+female,non-single,26,high school,43000,official duties,small city
+male,non-single,23,high school,22000,unemployed,small city
+male,non-single,25,high school,21000,unemployed,small city
+female,single,40,high school,23000,unemployed,small city
+male,single,46,high school,38000,unemployed,small city
+female,non-single,43,high school,16000,unemployed,small city
+female,non-single,22,high school,36000,unemployed,small city
+male,non-single,39,high school,24000,unemployed,small city
+female,non-single,27,high school,39000,unemployed,small city
+male,single,40,high school,31000,unemployed,small city
+male,single,24,unknown,21000,unemployed,small city
+female,single,52,high school,38000,official duties,small city
+female,non-single,30,high school,40000,unemployed,small city
+female,non-single,34,high school,26000,unemployed,small city
+female,single,38,high school,35000,official duties,small city
+male,non-single,39,high school,30000,unemployed,small city
+female,single,29,unknown,27000,unemployed,small city
+male,non-single,25,high school,22000,unemployed,small city
+female,non-single,35,high school,31000,unemployed,small city
+male,single,53,high school,41000,unemployed,small city
+male,single,26,unknown,21000,unemployed,small city
+male,single,33,high school,30000,unemployed,small city
+male,non-single,29,high school,30000,unemployed,small city
+male,single,39,high school,28000,unemployed,small city
+male,single,29,unknown,34000,official duties,small city
+male,single,26,unknown,38000,official duties,small city
+male,single,24,unknown,23000,unemployed,small city
+female,non-single,21,high school,38000,unemployed,small city
+female,non-single,26,high school,42000,official duties,small city
+female,non-single,20,high school,30000,unemployed,small city
+female,single,35,high school,24000,unemployed,small city
+female,non-single,24,high school,23000,unemployed,small city
+female,single,40,high school,41000,official duties,small city
+female,single,44,high school,41000,official duties,small city
+male,single,29,unknown,25000,unemployed,small city
+female,non-single,39,high school,27000,unemployed,small city
+female,non-single,35,high school,31000,unemployed,small city
+male,single,42,high school,36000,unemployed,small city
+female,single,32,high school,33000,official duties,small city
+male,single,48,high school,32000,unemployed,small city
+male,single,26,unknown,28000,unemployed,small city
+female,non-single,26,high school,37000,official duties,small city
+male,single,42,high school,33000,unemployed,small city
+male,single,48,high school,32000,unemployed,small city
+female,non-single,42,high school,44000,official duties,small city
+female,non-single,27,high school,31000,unemployed,small city
+female,non-single,37,high school,32000,unemployed,small city
+male,single,33,unknown,39000,official duties,small city
+male,single,33,high school,37000,official duties,small city
+female,single,37,high school,41000,official duties,small city
+female,non-single,31,high school,27000,unemployed,small city
+male,single,39,high school,41000,official duties,small city
+female,single,40,high school,28000,unemployed,small city
+female,non-single,28,high school,30000,unemployed,small city
+female,non-single,26,high school,27000,unemployed,small city
+female,non-single,24,high school,28000,unemployed,small city
+male,single,40,high school,35000,official duties,small city
+female,non-single,29,high school,34000,official duties,small city
+male,single,43,high school,37000,official duties,small city
+male,single,23,unknown,29000,unemployed,small city
+female,single,34,high school,38000,official duties,small city
+female,non-single,42,high school,38000,official duties,small city
+female,non-single,33,high school,35000,official duties,small city
+female,non-single,32,high school,40000,official duties,small city
+female,non-single,26,high school,32000,unemployed,small city
+female,non-single,23,high school,29000,unemployed,small city
+female,non-single,26,high school,23000,unemployed,small city
+female,non-single,27,high school,29000,unemployed,small city
+male,single,24,unknown,24000,unemployed,small city
+male,single,27,unknown,35000,unemployed,small city
+female,non-single,26,high school,33000,official duties,small city
+female,single,42,high school,26000,unemployed,small city
+female,single,37,high school,28000,unemployed,small city
+female,non-single,26,high school,29000,unemployed,small city
+female,non-single,24,high school,26000,unemployed,small city
+female,single,39,high school,42000,official duties,small city
+male,single,26,unknown,23000,unemployed,small city
+male,non-single,35,high school,38000,official duties,small city
+male,single,38,high school,32000,unemployed,small city
+female,non-single,24,high school,33000,official duties,small city
+female,single,26,unknown,36000,official duties,small city
+male,single,25,unknown,36000,unemployed,small city
+male,single,40,high school,24000,unemployed,small city
+female,single,48,high school,36000,unemployed,small city
+female,non-single,22,high school,37000,official duties,small city
+female,non-single,25,high school,34000,official duties,small city
+male,non-single,24,high school,21000,unemployed,small city
+male,single,39,high school,40000,unemployed,small city
+male,single,39,high school,27000,unemployed,small city
+female,non-single,21,high school,23000,unemployed,small city
+female,single,27,unknown,29000,unemployed,small city
+male,single,40,high school,26000,unemployed,small city
+female,non-single,37,high school,36000,official duties,small city
+female,single,42,high school,23000,unemployed,small city
+female,non-single,31,high school,40000,official duties,small city
+female,non-single,31,high school,34000,official duties,small city
+male,single,30,unknown,33000,official duties,small city
+female,single,23,unknown,22000,unemployed,small city
+male,single,33,unknown,39000,official duties,small city
+female,non-single,37,high school,42000,official duties,small city
+female,single,29,unknown,29000,unemployed,small city
+female,single,31,high school,38000,official duties,small city
+male,single,39,high school,31000,unemployed,small city
+female,non-single,33,high school,14000,unemployed,small city
+male,non-single,26,high school,24000,unemployed,small city
+female,non-single,27,high school,37000,official duties,small city
+female,single,20,unknown,20000,unemployed,small city
+female,non-single,27,high school,34000,unemployed,small city
+female,non-single,26,high school,24000,unemployed,small city
+male,single,40,high school,31000,unemployed,small city
+male,single,24,unknown,15000,unemployed,small city
+female,non-single,22,high school,34000,official duties,small city
+female,non-single,24,high school,21000,unemployed,small city
+female,single,27,unknown,35000,official duties,small city
+male,single,35,high school,33000,official duties,small city
+male,non-single,27,high school,35000,official duties,small city
+female,non-single,25,high school,39000,unemployed,small city
+female,non-single,34,high school,42000,unemployed,small city
+female,single,24,unknown,23000,unemployed,small city
+female,single,34,high school,40000,official duties,small city
+male,single,42,high school,26000,unemployed,small city
+female,single,38,high school,28000,unemployed,small city
+male,single,42,high school,27000,unemployed,small city
+female,single,35,high school,38000,unemployed,small city
+female,non-single,27,high school,34000,official duties,small city
+male,single,25,unknown,21000,unemployed,small city
+female,non-single,23,high school,34000,official duties,small city
+female,non-single,34,high school,42000,official duties,small city
+female,non-single,28,high school,44000,official duties,small city
+male,single,21,unknown,34000,official duties,small city
+female,single,32,unknown,38000,official duties,small city
+female,non-single,21,high school,40000,official duties,small city
+male,single,25,unknown,22000,unemployed,small city
+female,non-single,35,high school,41000,unemployed,small city
+female,non-single,25,high school,36000,unemployed,small city
+female,non-single,31,high school,26000,unemployed,small city
+male,single,54,high school,43000,official duties,small city
+female,single,51,high school,34000,unemployed,small city
+female,single,38,high school,29000,unemployed,small city
+male,single,45,high school,38000,official duties,small city
+female,single,47,high school,41000,unemployed,small city
+female,non-single,27,high school,39000,official duties,small city
+male,single,31,unknown,29000,unemployed,small city
+female,non-single,24,high school,33000,unemployed,small city
+male,single,25,unknown,23000,unemployed,small city
